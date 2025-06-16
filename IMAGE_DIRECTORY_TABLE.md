@@ -1,4 +1,4 @@
-# 📊 Image Directory Table
+# Image Directory Table
 
 | Title ID | Name | Type | Newest Content | Icon | Covers |
 | --- | --- | --- | --- | --- | --- |
