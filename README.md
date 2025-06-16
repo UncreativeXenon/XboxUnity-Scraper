@@ -52,7 +52,9 @@ This archive preserves essential assets and metadata from [XboxUnity.net](http:/
 ## 📊 Image Directory Table
 
 The following table lists all image files (icons and covers) along with their file paths and associated metadata for each title.  
-Please see it here: [Image Directory Table](./IMAGE_DIRECTORY_TABLE.md)
+Please see it here:  
+- [Part 1](./IMAGE_DIRECTORY_TABLE_1.md)
+- [Part 2](./IMAGE_DIRECTORY_TABLE_2.md)
 
 ---
 
