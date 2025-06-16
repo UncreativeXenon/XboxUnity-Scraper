@@ -71,7 +71,7 @@ Please see it here: [Image Directory Table](./IMAGE_DIRECTORY_TABLE.md)
 
 ---
 
-## 🌐 BASE_URL
+## 🌐 Base URL
 
 All API requests should be made relative to the following base URL:
 
