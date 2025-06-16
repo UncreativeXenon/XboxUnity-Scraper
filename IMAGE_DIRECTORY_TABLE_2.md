@@ -1,5 +1,7 @@
 # 📊 Image Directory Table (Part 2)
 
+| Title ID | Name | Type | Newest Content | Icon | Covers |
+| --- | --- | --- | --- | --- | --- |
 | `5855079B` | Zombie Arena 2 | 360 | 2015-12-21 | _None_ | [Small](Covers/5855079B/Small/) / [Medium](Covers/5855079B/Medium/) / [Large (default)](Covers/5855079B/Large/) |
 | `5855055E` | Zap Zap: Pew Pew | 360 | 2015-12-21 | _None_ | [Small](Covers/5855055E/Small/) / [Medium](Covers/5855055E/Medium/) / [Large (default)](Covers/5855055E/Large/) |
 | `58550462` | Zatacka 360 | 360 | 2015-12-21 | _None_ | [Small](Covers/58550462/Small/) / [Medium](Covers/58550462/Medium/) / [Large (default)](Covers/58550462/Large/) |
