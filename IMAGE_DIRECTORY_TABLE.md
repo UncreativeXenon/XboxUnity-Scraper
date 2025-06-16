@@ -1,7 +1,4 @@
-
 # Image Directory Table
-
-test
 
 | Title ID | Name | Type | Newest Content | Icon | Covers |
 | --- | --- | --- | --- | --- | --- |
