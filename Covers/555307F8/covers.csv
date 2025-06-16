@@ -1,5 +1,5 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-1234,0,0,TraJiK,559,2011-03-14 00:00:00,Yes
-406,0,1,TraJiK,533,2011-02-21 00:00:00,Yes
-24249,,1,mr_drew,311,2020-10-26 00:00:00,Yes
-12666,,0,projektHAZE,256,2015-03-02 00:00:00,Yes
+1234,0,No,TraJiK,559,2011-03-14 00:00:00,Yes
+406,0,Yes,TraJiK,533,2011-02-21 00:00:00,Yes
+24249,,Yes,mr_drew,311,2020-10-26 00:00:00,Yes
+12666,,No,projektHAZE,256,2015-03-02 00:00:00,Yes

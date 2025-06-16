@@ -1,7 +1,7 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-1590,0,1,TraJiK,477,2011-03-24 00:00:00,Yes
-22017,,1,pschmitzt2,723,2018-01-06 00:00:00,Yes
-22002,,1,pschmitzt2,853,2018-01-03 00:00:00,Yes
-22000,,0,pschmitzt2,549,2018-01-02 00:00:00,Yes
-17838,,0,Casperr,365,2016-01-01 00:00:00,Yes
-14365,,1,Camilleons,309,2015-07-17 00:00:00,Yes
+1590,0,Yes,TraJiK,477,2011-03-24 00:00:00,Yes
+22017,,Yes,pschmitzt2,723,2018-01-06 00:00:00,Yes
+22002,,Yes,pschmitzt2,853,2018-01-03 00:00:00,Yes
+22000,,No,pschmitzt2,549,2018-01-02 00:00:00,Yes
+17838,,No,Casperr,365,2016-01-01 00:00:00,Yes
+14365,,Yes,Camilleons,309,2015-07-17 00:00:00,Yes

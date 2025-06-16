@@ -1,7 +1,7 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-837,0,1,TraJiK,101,2011-02-26 00:00:00,Yes
-19405,,0,smokemonster,1201,2016-06-30 00:00:00,Yes
-17627,,0,Casperr,359,2016-01-01 00:00:00,Yes
-14345,,1,Camilleons,983,2015-07-17 00:00:00,Yes
-12703,,0,projektHAZE,173,2015-03-02 00:00:00,Yes
-10135,,0,Sisee,801,2014-11-15 00:00:00,Yes
+837,0,Yes,TraJiK,101,2011-02-26 00:00:00,Yes
+19405,,No,smokemonster,1201,2016-06-30 00:00:00,Yes
+17627,,No,Casperr,359,2016-01-01 00:00:00,Yes
+14345,,Yes,Camilleons,983,2015-07-17 00:00:00,Yes
+12703,,No,projektHAZE,173,2015-03-02 00:00:00,Yes
+10135,,No,Sisee,801,2014-11-15 00:00:00,Yes

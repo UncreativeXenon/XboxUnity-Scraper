@@ -1,5 +1,5 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-6098,0,1,jojojam2002,268,2013-11-24 00:00:00,Yes
-6006,0,0,ztevn,226,2013-11-01 00:00:00,Yes
-22534,,1,Apples n Onions,1375,2018-05-16 00:00:00,Yes
-11856,,0,alice989,113,2015-01-24 00:00:00,Yes
+6098,0,Yes,jojojam2002,268,2013-11-24 00:00:00,Yes
+6006,0,No,ztevn,226,2013-11-01 00:00:00,Yes
+22534,,Yes,Apples n Onions,1375,2018-05-16 00:00:00,Yes
+11856,,No,alice989,113,2015-01-24 00:00:00,Yes

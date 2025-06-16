@@ -1,7 +1,7 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-216,0,1,JPizzle,581,2011-02-21 00:00:00,Yes
-26265,,0,Sardaukar,972,2023-02-03 00:00:00,Yes
-18759,,1,Joseadilson,581,2016-02-07 00:00:00,Yes
-15297,,1,funkuzo,585,2015-11-01 00:00:00,Yes
-13499,,0,pesxdz,1006,2015-05-04 00:00:00,Yes
-12547,,0,Destructo99,1096,2015-02-23 00:00:00,Yes
+216,0,Yes,JPizzle,581,2011-02-21 00:00:00,Yes
+26265,,No,Sardaukar,972,2023-02-03 00:00:00,Yes
+18759,,Yes,Joseadilson,581,2016-02-07 00:00:00,Yes
+15297,,Yes,funkuzo,585,2015-11-01 00:00:00,Yes
+13499,,No,pesxdz,1006,2015-05-04 00:00:00,Yes
+12547,,No,Destructo99,1096,2015-02-23 00:00:00,Yes

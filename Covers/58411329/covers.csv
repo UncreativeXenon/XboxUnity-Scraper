@@ -1,5 +1,5 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-6116,5,1,KYOA5,565,2013-11-26 00:00:00,Yes
-25822,,0,LogicalXero,830,2022-10-06 00:00:00,Yes
-18122,,0,Casperr,352,2016-01-03 00:00:00,Yes
-13377,,0,Nonterrorist,849,2015-04-27 00:00:00,Yes
+6116,5,Yes,KYOA5,565,2013-11-26 00:00:00,Yes
+25822,,No,LogicalXero,830,2022-10-06 00:00:00,Yes
+18122,,No,Casperr,352,2016-01-03 00:00:00,Yes
+13377,,No,Nonterrorist,849,2015-04-27 00:00:00,Yes

@@ -1,5 +1,5 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-2207,4,1,dcdeadcell,173,2011-07-05 00:00:00,Yes
-12134,,0,Lurker,386,2015-01-29 00:00:00,Yes
-12135,,0,Lurker,384,2015-01-29 00:00:00,Yes
-7072,,0,Lurker,508,2014-07-14 00:00:00,Yes
+2207,4,Yes,dcdeadcell,173,2011-07-05 00:00:00,Yes
+12134,,No,Lurker,386,2015-01-29 00:00:00,Yes
+12135,,No,Lurker,384,2015-01-29 00:00:00,Yes
+7072,,No,Lurker,508,2014-07-14 00:00:00,Yes

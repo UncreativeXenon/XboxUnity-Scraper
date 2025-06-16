@@ -1,6 +1,6 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-196,5,1,JPizzle,634,2011-02-21 00:00:00,Yes
-24194,,0,Ayayaya,1020,2020-10-15 00:00:00,Yes
-19277,,0,Roberto3,359,2016-05-11 00:00:00,Yes
-19252,,0,Roberto3,315,2016-05-06 00:00:00,Yes
-14988,,0,fedaykyn,634,2015-10-03 00:00:00,Yes
+196,5,Yes,JPizzle,634,2011-02-21 00:00:00,Yes
+24194,,No,Ayayaya,1020,2020-10-15 00:00:00,Yes
+19277,,No,Roberto3,359,2016-05-11 00:00:00,Yes
+19252,,No,Roberto3,315,2016-05-06 00:00:00,Yes
+14988,,No,fedaykyn,634,2015-10-03 00:00:00,Yes

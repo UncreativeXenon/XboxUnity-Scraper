@@ -1,8 +1,8 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-203,0,1,JPizzle,572,2011-02-21 00:00:00,Yes
-23548,,0,edilson80,1347,2019-07-16 00:00:00,Yes
-18570,,0,Hecate,951,2016-01-26 00:00:00,Yes
-18483,,0,Hecate,955,2016-01-14 00:00:00,Yes
-18466,,0,Hecate,539,2016-01-10 00:00:00,Yes
-15294,,1,funkuzo,533,2015-11-01 00:00:00,Yes
-13310,,0,Nonterrorist,1004,2015-04-22 00:00:00,Yes
+203,0,Yes,JPizzle,572,2011-02-21 00:00:00,Yes
+23548,,No,edilson80,1347,2019-07-16 00:00:00,Yes
+18570,,No,Hecate,951,2016-01-26 00:00:00,Yes
+18483,,No,Hecate,955,2016-01-14 00:00:00,Yes
+18466,,No,Hecate,539,2016-01-10 00:00:00,Yes
+15294,,Yes,funkuzo,533,2015-11-01 00:00:00,Yes
+13310,,No,Nonterrorist,1004,2015-04-22 00:00:00,Yes

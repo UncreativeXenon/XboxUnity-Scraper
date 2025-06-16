@@ -1,5 +1,5 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-1507,0,0,Razkar,200,2011-03-23 00:00:00,Yes
-11717,,0,alice989,123,2015-01-24 00:00:00,Yes
-9801,,0,Sisee,1150,2014-11-08 00:00:00,Yes
-7736,,1,Milspex,1004,2014-08-24 00:00:00,Yes
+1507,0,No,Razkar,200,2011-03-23 00:00:00,Yes
+11717,,No,alice989,123,2015-01-24 00:00:00,Yes
+9801,,No,Sisee,1150,2014-11-08 00:00:00,Yes
+7736,,Yes,Milspex,1004,2014-08-24 00:00:00,Yes

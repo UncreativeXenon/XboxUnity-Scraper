@@ -1,7 +1,7 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-6304,0,0,Elsergio,220,2014-01-27 00:00:00,Yes
-11352,,0,bienv1,252,2015-01-07 00:00:00,Yes
-9889,,0,Sisee,1066,2014-11-10 00:00:00,Yes
-7884,,0,Kenesis,203,2014-09-03 00:00:00,Yes
-7779,,1,Milspex,989,2014-08-29 00:00:00,Yes
-7725,,0,Kenesis,203,2014-08-23 00:00:00,Yes
+6304,0,No,Elsergio,220,2014-01-27 00:00:00,Yes
+11352,,No,bienv1,252,2015-01-07 00:00:00,Yes
+9889,,No,Sisee,1066,2014-11-10 00:00:00,Yes
+7884,,No,Kenesis,203,2014-09-03 00:00:00,Yes
+7779,,Yes,Milspex,989,2014-08-29 00:00:00,Yes
+7725,,No,Kenesis,203,2014-08-23 00:00:00,Yes

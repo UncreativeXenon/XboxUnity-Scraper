@@ -1,4 +1,4 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-3726,5,1,god12,468,2012-09-09 00:00:00,Yes
-5824,0,1,irishdave,204,2013-10-07 00:00:00,Yes
-26243,,0,Sardaukar,900,2023-02-03 00:00:00,Yes
+3726,5,Yes,god12,468,2012-09-09 00:00:00,Yes
+5824,0,Yes,irishdave,204,2013-10-07 00:00:00,Yes
+26243,,No,Sardaukar,900,2023-02-03 00:00:00,Yes

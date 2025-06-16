@@ -1,5 +1,5 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-801,0,1,TraJiK,99,2011-02-26 00:00:00,Yes
-18125,,0,Casperr,300,2016-01-03 00:00:00,Yes
-13689,,0,Lurker,155,2015-05-15 00:00:00,Yes
-7384,,0,Lurker,213,2014-07-30 00:00:00,Yes
+801,0,Yes,TraJiK,99,2011-02-26 00:00:00,Yes
+18125,,No,Casperr,300,2016-01-03 00:00:00,Yes
+13689,,No,Lurker,155,2015-05-15 00:00:00,Yes
+7384,,No,Lurker,213,2014-07-30 00:00:00,Yes

@@ -1,7 +1,7 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-924,4,1,GoodfellaKeyser,485,2011-03-05 00:00:00,Yes
-27967,,0,Saadaoui06,150,2024-11-07 00:00:00,Yes
-24600,,1,raganinjo,1016,2021-05-01 00:00:00,Yes
-24601,,0,raganinjo,801,2021-05-01 00:00:00,Yes
-22356,,0,kulurak,339,2018-03-08 00:00:00,Yes
-10960,,0,tallaito,893,2014-12-21 00:00:00,Yes
+924,4,Yes,GoodfellaKeyser,485,2011-03-05 00:00:00,Yes
+27967,,No,Saadaoui06,150,2024-11-07 00:00:00,Yes
+24600,,Yes,raganinjo,1016,2021-05-01 00:00:00,Yes
+24601,,No,raganinjo,801,2021-05-01 00:00:00,Yes
+22356,,No,kulurak,339,2018-03-08 00:00:00,Yes
+10960,,No,tallaito,893,2014-12-21 00:00:00,Yes

@@ -1,4 +1,4 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-3275,0,1,coverz,450,2012-05-16 00:00:00,Yes
-26832,,0,GermanTron,983,2023-11-03 00:00:00,Yes
-12247,,0,Don_Pedro,366,2015-02-04 00:00:00,Yes
+3275,0,Yes,coverz,450,2012-05-16 00:00:00,Yes
+26832,,No,GermanTron,983,2023-11-03 00:00:00,Yes
+12247,,No,Don_Pedro,366,2015-02-04 00:00:00,Yes

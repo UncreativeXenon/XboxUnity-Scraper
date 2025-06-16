@@ -1,11 +1,11 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-4458,5,0,Blackmobbin,353,2012-12-22 00:00:00,Yes
-2490,3,1,TraJiK,453,2011-08-08 00:00:00,Yes
-27590,,0,wilfredlink432,504,2024-07-03 00:00:00,Yes
-26226,,0,Sardaukar,918,2023-02-03 00:00:00,Yes
-19490,,1,Joseadilson,271,2016-07-23 00:00:00,Yes
-17829,,0,Casperr,348,2016-01-01 00:00:00,Yes
-12614,,0,mostwantedzetaRK,1156,2015-02-27 00:00:00,Yes
-10991,,0,Lurker,591,2014-12-22 00:00:00,Yes
-10933,,0,mostwantedzetaRK,1132,2014-12-20 00:00:00,Yes
-7796,,0,Lurker,305,2014-08-29 00:00:00,Yes
+4458,5,No,Blackmobbin,353,2012-12-22 00:00:00,Yes
+2490,3,Yes,TraJiK,453,2011-08-08 00:00:00,Yes
+27590,,No,wilfredlink432,504,2024-07-03 00:00:00,Yes
+26226,,No,Sardaukar,918,2023-02-03 00:00:00,Yes
+19490,,Yes,Joseadilson,271,2016-07-23 00:00:00,Yes
+17829,,No,Casperr,348,2016-01-01 00:00:00,Yes
+12614,,No,mostwantedzetaRK,1156,2015-02-27 00:00:00,Yes
+10991,,No,Lurker,591,2014-12-22 00:00:00,Yes
+10933,,No,mostwantedzetaRK,1132,2014-12-20 00:00:00,Yes
+7796,,No,Lurker,305,2014-08-29 00:00:00,Yes

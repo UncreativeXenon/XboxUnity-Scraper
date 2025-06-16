@@ -1,6 +1,6 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-117,0,1,MaesterRowen,678,2011-02-20 00:00:00,Yes
-26124,,0,matt9,819,2023-01-04 00:00:00,Yes
-25349,,1,RefosLastKnight,280,2022-04-18 00:00:00,Yes
-20677,,0,deegee,1203,2017-01-06 00:00:00,Yes
-19011,,0,lokomeu,636,2016-03-15 00:00:00,Yes
+117,0,Yes,MaesterRowen,678,2011-02-20 00:00:00,Yes
+26124,,No,matt9,819,2023-01-04 00:00:00,Yes
+25349,,Yes,RefosLastKnight,280,2022-04-18 00:00:00,Yes
+20677,,No,deegee,1203,2017-01-06 00:00:00,Yes
+19011,,No,lokomeu,636,2016-03-15 00:00:00,Yes

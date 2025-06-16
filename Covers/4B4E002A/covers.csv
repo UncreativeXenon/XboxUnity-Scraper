@@ -1,5 +1,5 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-3725,5,1,god12,560,2012-09-09 00:00:00,Yes
-3276,0,0,coverz,353,2012-05-16 00:00:00,Yes
-26831,,0,GermanTron,1049,2023-11-03 00:00:00,Yes
-10693,,0,retrogamer343,634,2014-12-10 00:00:00,Yes
+3725,5,Yes,god12,560,2012-09-09 00:00:00,Yes
+3276,0,No,coverz,353,2012-05-16 00:00:00,Yes
+26831,,No,GermanTron,1049,2023-11-03 00:00:00,Yes
+10693,,No,retrogamer343,634,2014-12-10 00:00:00,Yes

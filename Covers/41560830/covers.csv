@@ -1,5 +1,5 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-221,4,1,JPizzle,632,2011-02-21 00:00:00,Yes
-1006,0,0,TraJiK,551,2011-03-06 00:00:00,Yes
-15299,,1,funkuzo,550,2015-11-01 00:00:00,Yes
-12549,,0,Destructo99,1149,2015-02-23 00:00:00,Yes
+221,4,Yes,JPizzle,632,2011-02-21 00:00:00,Yes
+1006,0,No,TraJiK,551,2011-03-06 00:00:00,Yes
+15299,,Yes,funkuzo,550,2015-11-01 00:00:00,Yes
+12549,,No,Destructo99,1149,2015-02-23 00:00:00,Yes

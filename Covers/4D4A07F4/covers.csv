@@ -1,5 +1,5 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-6052,5,1,marcos,504,2013-11-16 00:00:00,Yes
-21696,,0,calogi139276,504,2017-09-29 00:00:00,Yes
-20657,,1,Marketplace,1475,2016-12-31 00:00:00,Yes
-11017,,0,Smulldog,1212,2014-12-26 00:00:00,Yes
+6052,5,Yes,marcos,504,2013-11-16 00:00:00,Yes
+21696,,No,calogi139276,504,2017-09-29 00:00:00,Yes
+20657,,Yes,Marketplace,1475,2016-12-31 00:00:00,Yes
+11017,,No,Smulldog,1212,2014-12-26 00:00:00,Yes

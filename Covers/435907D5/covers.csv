@@ -1,6 +1,6 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-6826,0,0,Chocolate,91,2014-06-12 00:00:00,Yes
-11739,,0,alice989,134,2015-01-24 00:00:00,Yes
-9514,,0,kulurak,924,2014-10-26 00:00:00,Yes
-8932,,0,Lurker,585,2014-09-25 00:00:00,Yes
-7510,,1,alex1501,516,2014-08-03 00:00:00,Yes
+6826,0,No,Chocolate,91,2014-06-12 00:00:00,Yes
+11739,,No,alice989,134,2015-01-24 00:00:00,Yes
+9514,,No,kulurak,924,2014-10-26 00:00:00,Yes
+8932,,No,Lurker,585,2014-09-25 00:00:00,Yes
+7510,,Yes,alex1501,516,2014-08-03 00:00:00,Yes

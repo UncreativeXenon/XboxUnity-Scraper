@@ -1,6 +1,6 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-914,0,1,GoodfellaKeyser,548,2011-03-05 00:00:00,Yes
-23058,,0,SupremoJho,262,2018-10-06 00:00:00,Yes
-22190,,0,SupremoJhow,263,2018-02-08 00:00:00,Yes
-22191,,0,SupremoJhow,294,2018-02-08 00:00:00,Yes
-19006,,1,Joseadilson,1475,2016-03-14 00:00:00,Yes
+914,0,Yes,GoodfellaKeyser,548,2011-03-05 00:00:00,Yes
+23058,,No,SupremoJho,262,2018-10-06 00:00:00,Yes
+22190,,No,SupremoJhow,263,2018-02-08 00:00:00,Yes
+22191,,No,SupremoJhow,294,2018-02-08 00:00:00,Yes
+19006,,Yes,Joseadilson,1475,2016-03-14 00:00:00,Yes

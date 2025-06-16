@@ -1,8 +1,8 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-760,5,1,TraJiK,115,2011-02-26 00:00:00,Yes
-26298,,0,suegrini,787,2023-02-07 00:00:00,Yes
-26205,,0,suegrini,748,2023-01-27 00:00:00,Yes
-17891,,0,Casperr,314,2016-01-02 00:00:00,Yes
-14374,,1,Camilleons,190,2015-07-17 00:00:00,Yes
-12728,,0,Destructo99,944,2015-03-02 00:00:00,Yes
-10362,,0,Sisee,910,2014-11-22 00:00:00,Yes
+760,5,Yes,TraJiK,115,2011-02-26 00:00:00,Yes
+26298,,No,suegrini,787,2023-02-07 00:00:00,Yes
+26205,,No,suegrini,748,2023-01-27 00:00:00,Yes
+17891,,No,Casperr,314,2016-01-02 00:00:00,Yes
+14374,,Yes,Camilleons,190,2015-07-17 00:00:00,Yes
+12728,,No,Destructo99,944,2015-03-02 00:00:00,Yes
+10362,,No,Sisee,910,2014-11-22 00:00:00,Yes

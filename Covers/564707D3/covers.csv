@@ -1,4 +1,4 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-5876,0,1,ztevn,263,2013-10-14 00:00:00,Yes
-538,0,1,JPizzle,602,2011-02-22 00:00:00,Yes
-19261,,0,Nonterrorist,1044,2016-05-06 00:00:00,Yes
+5876,0,Yes,ztevn,263,2013-10-14 00:00:00,Yes
+538,0,Yes,JPizzle,602,2011-02-22 00:00:00,Yes
+19261,,No,Nonterrorist,1044,2016-05-06 00:00:00,Yes

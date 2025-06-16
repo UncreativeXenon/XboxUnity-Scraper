@@ -1,7 +1,7 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-3398,5,1,TraJiK,457,2012-05-30 00:00:00,Yes
-27101,,0,GermanTron,901,2023-12-06 00:00:00,Yes
-22201,,1,bololabich,1217,2018-02-14 00:00:00,Yes
-18086,,0,Casperr,354,2016-01-02 00:00:00,Yes
-13378,,0,Nonterrorist,1023,2015-04-27 00:00:00,Yes
-10577,,0,Sisee,855,2014-12-02 00:00:00,Yes
+3398,5,Yes,TraJiK,457,2012-05-30 00:00:00,Yes
+27101,,No,GermanTron,901,2023-12-06 00:00:00,Yes
+22201,,Yes,bololabich,1217,2018-02-14 00:00:00,Yes
+18086,,No,Casperr,354,2016-01-02 00:00:00,Yes
+13378,,No,Nonterrorist,1023,2015-04-27 00:00:00,Yes
+10577,,No,Sisee,855,2014-12-02 00:00:00,Yes

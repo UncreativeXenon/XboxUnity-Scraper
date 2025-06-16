@@ -1,5 +1,5 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-2233,0,1,coverz,401,2011-07-13 00:00:00,Yes
-27444,,1,MajoraMan,1401,2024-03-10 00:00:00,Yes
-23537,,0,Torygar ,1009,2019-07-09 00:00:00,Yes
-19704,,0,Roberto3,291,2016-08-27 00:00:00,Yes
+2233,0,Yes,coverz,401,2011-07-13 00:00:00,Yes
+27444,,Yes,MajoraMan,1401,2024-03-10 00:00:00,Yes
+23537,,No,Torygar ,1009,2019-07-09 00:00:00,Yes
+19704,,No,Roberto3,291,2016-08-27 00:00:00,Yes

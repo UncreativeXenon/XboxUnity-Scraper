@@ -1,7 +1,7 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-625,5,1,JPizzle,521,2011-02-24 00:00:00,Yes
-5707,0,1,irishdave,263,2013-09-19 00:00:00,Yes
-21148,,1,Darkman666,1038,2017-05-13 00:00:00,Yes
-13493,,0,pesxdz,925,2015-05-03 00:00:00,Yes
-13086,,0,Nonterrorist,980,2015-04-09 00:00:00,Yes
-10746,,0,pesxdz,945,2014-12-12 00:00:00,Yes
+625,5,Yes,JPizzle,521,2011-02-24 00:00:00,Yes
+5707,0,Yes,irishdave,263,2013-09-19 00:00:00,Yes
+21148,,Yes,Darkman666,1038,2017-05-13 00:00:00,Yes
+13493,,No,pesxdz,925,2015-05-03 00:00:00,Yes
+13086,,No,Nonterrorist,980,2015-04-09 00:00:00,Yes
+10746,,No,pesxdz,945,2014-12-12 00:00:00,Yes

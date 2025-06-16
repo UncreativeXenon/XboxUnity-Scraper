@@ -1,6 +1,6 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-544,5,1,JPizzle,615,2011-02-22 00:00:00,Yes
-24282,,0,mr_drew,319,2020-11-03 00:00:00,Yes
-24257,,0,mr_drew,281,2020-10-26 00:00:00,Yes
-22530,,1,Apples n Onions,1630,2018-05-16 00:00:00,Yes
-20938,,0,yoxoxo,1047,2017-04-03 00:00:00,Yes
+544,5,Yes,JPizzle,615,2011-02-22 00:00:00,Yes
+24282,,No,mr_drew,319,2020-11-03 00:00:00,Yes
+24257,,No,mr_drew,281,2020-10-26 00:00:00,Yes
+22530,,Yes,Apples n Onions,1630,2018-05-16 00:00:00,Yes
+20938,,No,yoxoxo,1047,2017-04-03 00:00:00,Yes

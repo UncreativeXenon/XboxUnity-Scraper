@@ -1,9 +1,9 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-3237,0,1,coverz,324,2012-05-16 00:00:00,Yes
-27841,,0,psboss,969,2024-10-08 00:00:00,Yes
-27172,,1,PlatinumHits_and_Bits,583,2023-12-29 00:00:00,Yes
-25956,,0,Oscaruli,953,2022-11-18 00:00:00,Yes
-24558,,0,Stales89,610,2021-04-10 00:00:00,Yes
-24559,,0,Stales89,610,2021-04-10 00:00:00,Yes
-12259,,0,mostwantedzetaRK,1055,2015-02-05 00:00:00,Yes
-10367,,0,Sisee,1031,2014-11-22 00:00:00,Yes
+3237,0,Yes,coverz,324,2012-05-16 00:00:00,Yes
+27841,,No,psboss,969,2024-10-08 00:00:00,Yes
+27172,,Yes,PlatinumHits_and_Bits,583,2023-12-29 00:00:00,Yes
+25956,,No,Oscaruli,953,2022-11-18 00:00:00,Yes
+24558,,No,Stales89,610,2021-04-10 00:00:00,Yes
+24559,,No,Stales89,610,2021-04-10 00:00:00,Yes
+12259,,No,mostwantedzetaRK,1055,2015-02-05 00:00:00,Yes
+10367,,No,Sisee,1031,2014-11-22 00:00:00,Yes

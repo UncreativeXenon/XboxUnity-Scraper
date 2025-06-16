@@ -1,5 +1,5 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-3779,0,1,god12,597,2012-09-18 00:00:00,Yes
-22149,,0,MoBy41,934,2018-02-04 00:00:00,Yes
-19193,,1,smokemonster,589,2016-04-27 00:00:00,Yes
-10070,,0,MushroomKnight,486,2014-11-14 00:00:00,Yes
+3779,0,Yes,god12,597,2012-09-18 00:00:00,Yes
+22149,,No,MoBy41,934,2018-02-04 00:00:00,Yes
+19193,,Yes,smokemonster,589,2016-04-27 00:00:00,Yes
+10070,,No,MushroomKnight,486,2014-11-14 00:00:00,Yes

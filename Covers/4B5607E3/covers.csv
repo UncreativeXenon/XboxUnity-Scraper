@@ -1,5 +1,5 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-5614,5,1,antras75,610,2013-09-02 00:00:00,Yes
-22619,,1,solitaire007,1289,2018-06-08 00:00:00,Yes
-19253,,0,Roberto3,283,2016-05-06 00:00:00,Yes
-11166,,0,pandas,610,2015-01-03 00:00:00,Yes
+5614,5,Yes,antras75,610,2013-09-02 00:00:00,Yes
+22619,,Yes,solitaire007,1289,2018-06-08 00:00:00,Yes
+19253,,No,Roberto3,283,2016-05-06 00:00:00,Yes
+11166,,No,pandas,610,2015-01-03 00:00:00,Yes

@@ -1,11 +1,11 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-246,5,1,JPizzle,584,2011-02-21 00:00:00,Yes
-24378,,0,Dilsonjs,1007,2021-01-29 00:00:00,Yes
-22277,,0,Destructo99,1271,2018-02-19 00:00:00,Yes
-22051,,0,akatsuki-ghost,235,2018-01-16 00:00:00,Yes
-22052,,0,akatsuki-ghost,214,2018-01-16 00:00:00,Yes
-22053,,0,akatsuki-ghost,271,2018-01-16 00:00:00,Yes
-22054,,0,akatsuki-ghost,807,2018-01-16 00:00:00,Yes
-22055,,0,akatsuki-ghost,1082,2018-01-16 00:00:00,Yes
-14839,,0,MyLocalHost,185,2015-09-13 00:00:00,Yes
-14336,,0,Dipsy,1143,2015-07-13 00:00:00,Yes
+246,5,Yes,JPizzle,584,2011-02-21 00:00:00,Yes
+24378,,No,Dilsonjs,1007,2021-01-29 00:00:00,Yes
+22277,,No,Destructo99,1271,2018-02-19 00:00:00,Yes
+22051,,No,akatsuki-ghost,235,2018-01-16 00:00:00,Yes
+22052,,No,akatsuki-ghost,214,2018-01-16 00:00:00,Yes
+22053,,No,akatsuki-ghost,271,2018-01-16 00:00:00,Yes
+22054,,No,akatsuki-ghost,807,2018-01-16 00:00:00,Yes
+22055,,No,akatsuki-ghost,1082,2018-01-16 00:00:00,Yes
+14839,,No,MyLocalHost,185,2015-09-13 00:00:00,Yes
+14336,,No,Dipsy,1143,2015-07-13 00:00:00,Yes

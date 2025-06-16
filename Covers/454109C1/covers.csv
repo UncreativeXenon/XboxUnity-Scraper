@@ -1,7 +1,7 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-5566,5,0,mr45revolver,493,2013-08-25 00:00:00,Yes
-5699,2,1,MidMellow,272,2013-09-17 00:00:00,Yes
-5700,0,1,MidMellow,543,2013-09-17 00:00:00,Yes
-5565,0,0,mr45revolver,530,2013-08-25 00:00:00,Yes
-5568,0,0,mr45revolver,483,2013-08-25 00:00:00,Yes
-13079,,0,Nonterrorist,1032,2015-04-08 00:00:00,Yes
+5566,5,No,mr45revolver,493,2013-08-25 00:00:00,Yes
+5699,2,Yes,MidMellow,272,2013-09-17 00:00:00,Yes
+5700,0,Yes,MidMellow,543,2013-09-17 00:00:00,Yes
+5565,0,No,mr45revolver,530,2013-08-25 00:00:00,Yes
+5568,0,No,mr45revolver,483,2013-08-25 00:00:00,Yes
+13079,,No,Nonterrorist,1032,2015-04-08 00:00:00,Yes

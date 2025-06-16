@@ -1,8 +1,8 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-2164,5,0,kyocasey,398,2011-07-03 00:00:00,Yes
-5718,4,1,irishdave,295,2013-09-19 00:00:00,Yes
-2182,4,1,dcdeadcell,138,2011-07-05 00:00:00,Yes
-15621,,1,maorcmhot,295,2015-12-03 00:00:00,Yes
-13833,,0,Mevlana,299,2015-05-18 00:00:00,Yes
-12265,,0,mostwantedzetaRK,1174,2015-02-05 00:00:00,Yes
-9663,,0,Sisee,857,2014-11-05 00:00:00,Yes
+2164,5,No,kyocasey,398,2011-07-03 00:00:00,Yes
+5718,4,Yes,irishdave,295,2013-09-19 00:00:00,Yes
+2182,4,Yes,dcdeadcell,138,2011-07-05 00:00:00,Yes
+15621,,Yes,maorcmhot,295,2015-12-03 00:00:00,Yes
+13833,,No,Mevlana,299,2015-05-18 00:00:00,Yes
+12265,,No,mostwantedzetaRK,1174,2015-02-05 00:00:00,Yes
+9663,,No,Sisee,857,2014-11-05 00:00:00,Yes

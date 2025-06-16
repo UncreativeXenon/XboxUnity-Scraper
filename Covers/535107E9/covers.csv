@@ -1,6 +1,6 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-201,5,1,JPizzle,546,2011-02-21 00:00:00,Yes
-25531,,0,Zaikrot,862,2022-07-06 00:00:00,Yes
-23764,,0,matt9,757,2019-12-23 00:00:00,Yes
-23735,,0,matt9,744,2019-11-22 00:00:00,Yes
-8390,,0,Lurker,240,2014-09-15 00:00:00,Yes
+201,5,Yes,JPizzle,546,2011-02-21 00:00:00,Yes
+25531,,No,Zaikrot,862,2022-07-06 00:00:00,Yes
+23764,,No,matt9,757,2019-12-23 00:00:00,Yes
+23735,,No,matt9,744,2019-11-22 00:00:00,Yes
+8390,,No,Lurker,240,2014-09-15 00:00:00,Yes

@@ -1,7 +1,7 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-3885,5,0,Gromber,392,2012-10-04 00:00:00,Yes
-26212,,0,Logan1109,739,2023-01-28 00:00:00,Yes
-24694,,1,MushroomKnight,656,2021-05-29 00:00:00,Yes
-17916,,0,Casperr,384,2016-01-02 00:00:00,Yes
-13087,,0,Nonterrorist,913,2015-04-09 00:00:00,Yes
-10399,,0,Sisee,1053,2014-11-23 00:00:00,Yes
+3885,5,No,Gromber,392,2012-10-04 00:00:00,Yes
+26212,,No,Logan1109,739,2023-01-28 00:00:00,Yes
+24694,,Yes,MushroomKnight,656,2021-05-29 00:00:00,Yes
+17916,,No,Casperr,384,2016-01-02 00:00:00,Yes
+13087,,No,Nonterrorist,913,2015-04-09 00:00:00,Yes
+10399,,No,Sisee,1053,2014-11-23 00:00:00,Yes

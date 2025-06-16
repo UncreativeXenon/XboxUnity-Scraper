@@ -1,8 +1,8 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-417,0,1,TraJiK,548,2011-02-21 00:00:00,Yes
-22934,,0,Pablo_Web,276,2018-08-11 00:00:00,Yes
-22935,,0,Pablo_Web,272,2018-08-11 00:00:00,Yes
-22554,,0,Pablo_Web,272,2018-05-19 00:00:00,Yes
-22555,,0,Pablo_Web,272,2018-05-19 00:00:00,Yes
-18869,,1,Joseadilson,548,2016-02-14 00:00:00,Yes
-8619,,0,Lurker,247,2014-09-19 00:00:00,Yes
+417,0,Yes,TraJiK,548,2011-02-21 00:00:00,Yes
+22934,,No,Pablo_Web,276,2018-08-11 00:00:00,Yes
+22935,,No,Pablo_Web,272,2018-08-11 00:00:00,Yes
+22554,,No,Pablo_Web,272,2018-05-19 00:00:00,Yes
+22555,,No,Pablo_Web,272,2018-05-19 00:00:00,Yes
+18869,,Yes,Joseadilson,548,2016-02-14 00:00:00,Yes
+8619,,No,Lurker,247,2014-09-19 00:00:00,Yes

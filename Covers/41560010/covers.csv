@@ -1,6 +1,6 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-5729,0,1,irishdave,313,2013-09-19 00:00:00,Yes
-4452,0,0,hebbel81,342,2012-12-18 00:00:00,Yes
-27191,,1,PlatinumHits_and_Bits,571,2023-12-29 00:00:00,Yes
-24683,,1,MushroomKnight,583,2021-05-29 00:00:00,Yes
-9669,,0,Sisee,1054,2014-11-05 00:00:00,Yes
+5729,0,Yes,irishdave,313,2013-09-19 00:00:00,Yes
+4452,0,No,hebbel81,342,2012-12-18 00:00:00,Yes
+27191,,Yes,PlatinumHits_and_Bits,571,2023-12-29 00:00:00,Yes
+24683,,Yes,MushroomKnight,583,2021-05-29 00:00:00,Yes
+9669,,No,Sisee,1054,2014-11-05 00:00:00,Yes

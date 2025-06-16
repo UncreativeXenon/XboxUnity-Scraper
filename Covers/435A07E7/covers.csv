@@ -1,9 +1,9 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-5319,0,1,jordirafel,323,2013-06-18 00:00:00,Yes
-5205,0,1,EmuBoarding,185,2013-05-31 00:00:00,Yes
-12554,,0,Destructo99,1148,2015-02-23 00:00:00,Yes
-12555,,0,Destructo99,1113,2015-02-23 00:00:00,Yes
-12556,,0,Destructo99,1036,2015-02-23 00:00:00,Yes
-11726,,0,alice989,140,2015-01-24 00:00:00,Yes
-7886,,0,Kenesis,565,2014-09-03 00:00:00,Yes
-7733,,1,Milspex,831,2014-08-24 00:00:00,Yes
+5319,0,Yes,jordirafel,323,2013-06-18 00:00:00,Yes
+5205,0,Yes,EmuBoarding,185,2013-05-31 00:00:00,Yes
+12554,,No,Destructo99,1148,2015-02-23 00:00:00,Yes
+12555,,No,Destructo99,1113,2015-02-23 00:00:00,Yes
+12556,,No,Destructo99,1036,2015-02-23 00:00:00,Yes
+11726,,No,alice989,140,2015-01-24 00:00:00,Yes
+7886,,No,Kenesis,565,2014-09-03 00:00:00,Yes
+7733,,Yes,Milspex,831,2014-08-24 00:00:00,Yes

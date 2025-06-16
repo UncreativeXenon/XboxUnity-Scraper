@@ -1,5 +1,5 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-789,0,1,TraJiK,104,2011-02-26 00:00:00,Yes
-23599,,1,MushroomKnight,522,2019-07-31 00:00:00,Yes
-23502,,0,MushroomKnight,522,2019-06-14 00:00:00,Yes
-18068,,0,Casperr,354,2016-01-02 00:00:00,Yes
+789,0,Yes,TraJiK,104,2011-02-26 00:00:00,Yes
+23599,,Yes,MushroomKnight,522,2019-07-31 00:00:00,Yes
+23502,,No,MushroomKnight,522,2019-06-14 00:00:00,Yes
+18068,,No,Casperr,354,2016-01-02 00:00:00,Yes

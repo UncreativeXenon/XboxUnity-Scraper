@@ -1,8 +1,8 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-4622,5,0,hiropong,234,2013-02-07 00:00:00,Yes
-3302,5,1,megakuko,193,2012-05-18 00:00:00,Yes
-562,5,1,JPizzle,589,2011-02-22 00:00:00,Yes
-27860,,0,psboss,1021,2024-10-08 00:00:00,Yes
-26713,,1,psboss,629,2023-08-30 00:00:00,Yes
-19911,,0,Roberto3,309,2016-10-03 00:00:00,Yes
-11026,,0,Smulldog,1415,2014-12-26 00:00:00,Yes
+4622,5,No,hiropong,234,2013-02-07 00:00:00,Yes
+3302,5,Yes,megakuko,193,2012-05-18 00:00:00,Yes
+562,5,Yes,JPizzle,589,2011-02-22 00:00:00,Yes
+27860,,No,psboss,1021,2024-10-08 00:00:00,Yes
+26713,,Yes,psboss,629,2023-08-30 00:00:00,Yes
+19911,,No,Roberto3,309,2016-10-03 00:00:00,Yes
+11026,,No,Smulldog,1415,2014-12-26 00:00:00,Yes

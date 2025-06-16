@@ -1,10 +1,10 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-5932,4,1,kenkho,248,2013-10-22 00:00:00,Yes
-5856,0,1,ztevn,224,2013-10-13 00:00:00,Yes
-5812,0,1,kirillkomakha13,592,2013-10-04 00:00:00,Yes
-23938,,1,Sakitoshi,943,2020-05-03 00:00:00,Yes
-23933,,1,Sakitoshi,528,2020-05-02 00:00:00,Yes
-18882,,1,Joseadilson,1377,2016-02-20 00:00:00,Yes
-11987,,0,Lurker,672,2015-01-25 00:00:00,Yes
-11988,,0,Lurker,627,2015-01-25 00:00:00,Yes
-9484,,0,uzumakijoe,1158,2014-10-24 00:00:00,Yes
+5932,4,Yes,kenkho,248,2013-10-22 00:00:00,Yes
+5856,0,Yes,ztevn,224,2013-10-13 00:00:00,Yes
+5812,0,Yes,kirillkomakha13,592,2013-10-04 00:00:00,Yes
+23938,,Yes,Sakitoshi,943,2020-05-03 00:00:00,Yes
+23933,,Yes,Sakitoshi,528,2020-05-02 00:00:00,Yes
+18882,,Yes,Joseadilson,1377,2016-02-20 00:00:00,Yes
+11987,,No,Lurker,672,2015-01-25 00:00:00,Yes
+11988,,No,Lurker,627,2015-01-25 00:00:00,Yes
+9484,,No,uzumakijoe,1158,2014-10-24 00:00:00,Yes

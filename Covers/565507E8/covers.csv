@@ -1,8 +1,8 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-2645,5,1,garentz,172,2011-10-29 00:00:00,Yes
-188,0,1,JPizzle,576,2011-02-21 00:00:00,Yes
-26925,,0,GermanTron,752,2023-12-04 00:00:00,Yes
-10735,,0,Lurker,248,2014-12-11 00:00:00,Yes
-9818,,0,Sisee,1018,2014-11-08 00:00:00,Yes
-9042,,0,QuattroGam3r,234,2014-10-02 00:00:00,Yes
-8373,,0,Lurker,232,2014-09-15 00:00:00,Yes
+2645,5,Yes,garentz,172,2011-10-29 00:00:00,Yes
+188,0,Yes,JPizzle,576,2011-02-21 00:00:00,Yes
+26925,,No,GermanTron,752,2023-12-04 00:00:00,Yes
+10735,,No,Lurker,248,2014-12-11 00:00:00,Yes
+9818,,No,Sisee,1018,2014-11-08 00:00:00,Yes
+9042,,No,QuattroGam3r,234,2014-10-02 00:00:00,Yes
+8373,,No,Lurker,232,2014-09-15 00:00:00,Yes

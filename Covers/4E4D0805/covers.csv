@@ -1,8 +1,8 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-1519,0,0,griddark,612,2011-03-24 00:00:00,Yes
-23341,,1,MushroomKnight,611,2019-02-21 00:00:00,Yes
-20748,,0,relord,1330,2017-01-21 00:00:00,Yes
-11865,,0,alice989,83,2015-01-24 00:00:00,Yes
-11344,,0,bienv1,307,2015-01-07 00:00:00,Yes
-11248,,0,Be4stElectrjc,1036,2015-01-05 00:00:00,Yes
-10987,,0,Roberto3,287,2014-12-22 00:00:00,Yes
+1519,0,No,griddark,612,2011-03-24 00:00:00,Yes
+23341,,Yes,MushroomKnight,611,2019-02-21 00:00:00,Yes
+20748,,No,relord,1330,2017-01-21 00:00:00,Yes
+11865,,No,alice989,83,2015-01-24 00:00:00,Yes
+11344,,No,bienv1,307,2015-01-07 00:00:00,Yes
+11248,,No,Be4stElectrjc,1036,2015-01-05 00:00:00,Yes
+10987,,No,Roberto3,287,2014-12-22 00:00:00,Yes

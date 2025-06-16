@@ -1,7 +1,7 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-2628,0,1,Blackuser,265,2011-10-25 00:00:00,Yes
-23692,,0,sebastianvso6224,818,2019-10-12 00:00:00,Yes
-22943,,1,Kaltenbruner,1032,2018-08-19 00:00:00,Yes
-12129,,0,Lurker,349,2015-01-29 00:00:00,Yes
-12130,,0,Lurker,357,2015-01-29 00:00:00,Yes
-7070,,0,Lurker,437,2014-07-14 00:00:00,Yes
+2628,0,Yes,Blackuser,265,2011-10-25 00:00:00,Yes
+23692,,No,sebastianvso6224,818,2019-10-12 00:00:00,Yes
+22943,,Yes,Kaltenbruner,1032,2018-08-19 00:00:00,Yes
+12129,,No,Lurker,349,2015-01-29 00:00:00,Yes
+12130,,No,Lurker,357,2015-01-29 00:00:00,Yes
+7070,,No,Lurker,437,2014-07-14 00:00:00,Yes

@@ -1,6 +1,6 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-2371,5,1,TraJiK,476,2011-08-06 00:00:00,Yes
-27135,,0,GermanTron,1033,2023-12-06 00:00:00,Yes
-18283,,0,Casperr,355,2016-01-03 00:00:00,Yes
-12480,,0,Lurker,173,2015-02-15 00:00:00,Yes
-7374,,0,Lurker,384,2014-07-30 00:00:00,Yes
+2371,5,Yes,TraJiK,476,2011-08-06 00:00:00,Yes
+27135,,No,GermanTron,1033,2023-12-06 00:00:00,Yes
+18283,,No,Casperr,355,2016-01-03 00:00:00,Yes
+12480,,No,Lurker,173,2015-02-15 00:00:00,Yes
+7374,,No,Lurker,384,2014-07-30 00:00:00,Yes

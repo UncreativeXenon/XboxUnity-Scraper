@@ -1,6 +1,6 @@
 CoverID,Rating,Official,Username,FileSize,UploadedDate,NoRate
-512,0,1,JPizzle,504,2011-02-22 00:00:00,Yes
-25093,,0,mr_drew,275,2021-11-17 00:00:00,Yes
-25094,,0,mr_drew,394,2021-11-17 00:00:00,Yes
-24258,,1,mr_drew,301,2020-10-26 00:00:00,Yes
-23734,,0,matt9,665,2019-11-22 00:00:00,Yes
+512,0,Yes,JPizzle,504,2011-02-22 00:00:00,Yes
+25093,,No,mr_drew,275,2021-11-17 00:00:00,Yes
+25094,,No,mr_drew,394,2021-11-17 00:00:00,Yes
+24258,,Yes,mr_drew,301,2020-10-26 00:00:00,Yes
+23734,,No,matt9,665,2019-11-22 00:00:00,Yes
