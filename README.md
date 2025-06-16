@@ -28,7 +28,7 @@ This archive preserves essential assets and metadata from [XboxUnity.net](http:/
 - **Path:** `Icons/*.png`
 - **Description:** Individual PNG icon files for Xbox 360 titles, used throughout XboxUnity.
 - **Example:** `53450812.png` corresponds to a specific Xbox 360 title.
-- **Additional:** [Website icon](./Icons/UnityBanner.png).
+- **Additional:** [Website icon](./UnityBanner.png)
 
 ---
 
@@ -52,6 +52,7 @@ This archive preserves essential assets and metadata from [XboxUnity.net](http:/
 ## 📊 Image Directory Table
 
 The following table lists all image files (icons and covers) along with their file paths and associated metadata for each title.  
+
 Please see it here:  
 - [Part 1](./IMAGE_DIRECTORY_TABLE_1.md)
 - [Part 2](./IMAGE_DIRECTORY_TABLE_2.md)
