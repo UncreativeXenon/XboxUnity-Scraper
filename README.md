@@ -108,9 +108,9 @@ A JSON object containing a `Result` field with user details.
 
 ##### Response Fields
 
-| **FIELD**          | **TYPE**      | **DESCRIPTION**                                                                        |
-|--------------------|---------------|----------------------------------------------------------------------------------------|
-| `Result`           | `Object`      | User object containing information regrading the authorized user including secret data |
+| **FIELD**          | **TYPE**      | **DESCRIPTION**                                                                         |
+|--------------------|---------------|-----------------------------------------------------------------------------------------|
+| `Result`           | `object`      | User object containing information regrading the authorized user including secret data. |
 
 ##### Example Response
 ```json
