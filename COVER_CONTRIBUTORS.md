@@ -199,7 +199,7 @@ Thank you to all the cover contributors! Below is a list of contributors sorted 
 - **Elian2**: 12 contributions
 - **ztevn**: 12 contributions
 - **fuzzak**: 12 contributions
-- **HawkEight **: 12 contributions
+- **HawkEight**: 12 contributions
 - **enzoerbisti**: 12 contributions
 - **Robhood19**: 12 contributions
 - **Micas**: 12 contributions
@@ -278,7 +278,7 @@ Thank you to all the cover contributors! Below is a list of contributors sorted 
 - **gargoyle67**: 8 contributions
 - **Johnbit**: 8 contributions
 - **P3D40**: 8 contributions
-- ** 313**: 8 contributions
+- **313**: 8 contributions
 - **RadiantAnsel**: 8 contributions
 - **grochu112**: 8 contributions
 - **kepaic**: 8 contributions
@@ -498,7 +498,7 @@ Thank you to all the cover contributors! Below is a list of contributors sorted 
 - **Sersh11**: 4 contributions
 - **FacuLieb**: 4 contributions
 - **vallyfxl360**: 4 contributions
-- **Torygar **: 4 contributions
+- **Torygar**: 4 contributions
 - **faybeyourself**: 4 contributions
 - **Kawan_santos**: 4 contributions
 - **Dilsonjs**: 4 contributions
@@ -590,7 +590,7 @@ Thank you to all the cover contributors! Below is a list of contributors sorted 
 - **AlienStitch**: 3 contributions
 - **juanignacio463**: 3 contributions
 - **Chupitofrances**: 3 contributions
-- **AlDaHiR635 **: 3 contributions
+- **AlDaHiR635**: 3 contributions
 - **dx666**: 3 contributions
 - **megamanxzero28**: 3 contributions
 - **kelhey**: 3 contributions
@@ -693,11 +693,11 @@ Thank you to all the cover contributors! Below is a list of contributors sorted 
 - **Eruil**: 3 contributions
 - **JOHNNYLEMOS**: 3 contributions
 - **johndest**: 3 contributions
-- **André F. Reis **: 2 contributions
+- **André F. Reis**: 2 contributions
 - **JohnPac655**: 2 contributions
 - **VatoChan**: 2 contributions
 - **King Ray-X**: 2 contributions
-- **Autopoietico **: 2 contributions
+- **Autopoietico**: 2 contributions
 - **NizarModz**: 2 contributions
 - **julio08161**: 2 contributions
 - **Zombiesaurio**: 2 contributions
@@ -755,7 +755,7 @@ Thank you to all the cover contributors! Below is a list of contributors sorted 
 - **marshel-fat**: 2 contributions
 - **DarkVenonJlleBr**: 2 contributions
 - **bibozwss19**: 2 contributions
-- **Just Die **: 2 contributions
+- **Just Die**: 2 contributions
 - **999garcia**: 2 contributions
 - **DriSS12**: 2 contributions
 - **Orlandiuxx1984**: 2 contributions
@@ -1229,7 +1229,7 @@ Thank you to all the cover contributors! Below is a list of contributors sorted 
 - **Peca4923CZ**: 1 contributions
 - **aleo76**: 1 contributions
 - **stormnetgd**: 1 contributions
-- **jsoe **: 1 contributions
+- **jsoe**: 1 contributions
 - **Mclarenn81 HUN**: 1 contributions
 - **jeffersoncurv**: 1 contributions
 - **langoski2**: 1 contributions
@@ -1507,7 +1507,7 @@ Thank you to all the cover contributors! Below is a list of contributors sorted 
 - **zabbaz**: 1 contributions
 - **RevilingDante**: 1 contributions
 - **gretagarbo**: 1 contributions
-- **Junior_Ludtke **: 1 contributions
+- **Junior_Ludtke**: 1 contributions
 - **brettsog85**: 1 contributions
 - **joskagyerek**: 1 contributions
 - **Anacham**: 1 contributions
@@ -1534,7 +1534,7 @@ Thank you to all the cover contributors! Below is a list of contributors sorted 
 - **jeffersonHU3**: 1 contributions
 - **Sumaksanyi**: 1 contributions
 - **Ensladark**: 1 contributions
-- **onnetheFranXXchan **: 1 contributions
+- **onnetheFranXXchan**: 1 contributions
 - **octobercart**: 1 contributions
 - **Yannis100**: 1 contributions
 - **thevisitor**: 1 contributions
@@ -1553,7 +1553,7 @@ Thank you to all the cover contributors! Below is a list of contributors sorted 
 - **square90**: 1 contributions
 - **KILLERPAPA23**: 1 contributions
 - **developthetree**: 1 contributions
-- **NEARRIVER **: 1 contributions
+- **NEARRIVER**: 1 contributions
 - **aelchris**: 1 contributions
 - **b5addict**: 1 contributions
 - **felipe1140**: 1 contributions
@@ -1564,10 +1564,10 @@ Thank you to all the cover contributors! Below is a list of contributors sorted 
 - **bmendes519**: 1 contributions
 - **Nacho157**: 1 contributions
 - **dixolgamer**: 1 contributions
-- **WeeTR **: 1 contributions
+- **WeeTR**: 1 contributions
 - **lipeoakley**: 1 contributions
 - **Gatogx91**: 1 contributions
-- **oof **: 1 contributions
+- **oof**: 1 contributions
 - **xtspells**: 1 contributions
 - **wizball1973**: 1 contributions
 - **19k9**: 1 contributions
@@ -1721,7 +1721,7 @@ Thank you to all the cover contributors! Below is a list of contributors sorted 
 - **Eliminator14**: 1 contributions
 - **sixdecll**: 1 contributions
 - **EzWaY**: 1 contributions
-- **WAWKAT **: 1 contributions
+- **WAWKAT**: 1 contributions
 - **IKn0wSome**: 1 contributions
 - **deep_shadow**: 1 contributions
 - **dewa**: 1 contributions
@@ -1966,7 +1966,7 @@ Thank you to all the cover contributors! Below is a list of contributors sorted 
 - **nightcore86**: 1 contributions
 - **CameronMitch**: 1 contributions
 - **vinin_hc**: 1 contributions
-- **mzhilyn **: 1 contributions
+- **mzhilyn**: 1 contributions
 - **lelm83**: 1 contributions
 - **smollvrn**: 1 contributions
 - **A.MASSI**: 1 contributions
@@ -2035,7 +2035,7 @@ Thank you to all the cover contributors! Below is a list of contributors sorted 
 - **xorxfon**: 1 contributions
 - **TheReapaa**: 1 contributions
 - **loco**: 1 contributions
-- **Leon_Tavares **: 1 contributions
+- **Leon_Tavares**: 1 contributions
 - **TheLazyHatGuy**: 1 contributions
 - **schnaust**: 1 contributions
 - **fabricioinfotec000**: 1 contributions
