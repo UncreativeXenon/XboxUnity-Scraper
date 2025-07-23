@@ -545,7 +545,7 @@ You are free to share and adapt that content for non-commercial purposes with pr
 - **Data Source:** [XboxUnity.net](http://xboxunity.net) — community-run resource for Xbox 360/OG Xbox title metadata.
 - **Maintained by:** [UncreativeXenon](https://github.com/UncreativeXenon).
 - **Tools Used:**
-  - Node.js for scrapping & converting
+  - Node.js for scrapping & converting.
 - **Special Thanks:**
   - The community of cover contributors — kindly see [COVER_CONTRIBUTORS.md](./COVER_CONTRIBUTORS.md) for acknowledgments, they really deserve it for their amazing work!
   - [rh45-one](https://github.com/rh45-one).
