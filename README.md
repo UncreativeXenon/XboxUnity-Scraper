@@ -3,7 +3,7 @@
 This archive preserves essential assets and metadata from [XboxUnity.net](http://xboxunity.net), organized for ease of use in research, dashboard modding, and archival purposes.
 
 > 🕓 **Last scraped:** June 16, 2025  
-> ♻️ **Repo last updated:** June 25, 2025
+> ♻️ **Repo last updated:** July 30, 2025
 
 ---
 
@@ -52,6 +52,8 @@ This archive preserves essential assets and metadata from [XboxUnity.net](http:/
 ## 📊 Image Directory Table
 
 The following table lists all image files (icons and covers) along with their file paths and associated metadata for each title.  
+
+> ℹ️ **Note:** Some homebrew applications may have a TitleID that doesn't match the one in the executable file. In such cases, these applications will have an alternative HBTitleID which resembles the executable's TitleID. To clearly identify them, a note is included next to these applications: **(Actual/Homebrew Title ID)**.
 
 Please see it here:  
 - [Part 1](./IMAGE_DIRECTORY_TABLE_1.md)
@@ -218,6 +220,8 @@ Returns a JSON object with an array of title entries and pagination metadata.
   "Direction": "0"
 }
 ```
+
+> ℹ️ **Note:**: If a Homebrew Title ID (`HBTitleID`) is provided, it will be used instead of the default TitleID in both the file executable and the website display, but not in API calls. If the `HBTitleID` is `00000000`, it will be completely ignored.
 
 > ℹ️ **Note:** To retrieve **all XboxUnity titles**, simply call the endpoint with `search` left empty (e.g., `search=`).
 

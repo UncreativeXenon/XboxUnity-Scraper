@@ -28,7 +28,7 @@
 | `54540082` | GTA San Andreas (Xbox Classic) | Xbox1 | 2025-05-13 | _None_ | [Small](Covers/54540082/Small/) / [Medium](Covers/54540082/Medium/) / [Large (default)](Covers/54540082/Large/) |
 | `5841099D` | SpongeBob SquarePants and the Nicktoons: Gravjet Racing | 360 | 2025-05-11 | _None_ | [Small](Covers/5841099D/Small/) / [Medium](Covers/5841099D/Medium/) / [Large (default)](Covers/5841099D/Large/) |
 | `534507D6` | SONIC THE HEDGEHOG | 360 | 2025-05-09 | [Icon](Icons/534507D6.png) | [Small](Covers/534507D6/Small/) / [Medium](Covers/534507D6/Medium/) / [Large (default)](Covers/534507D6/Large/) |
-| `00000120` | FinalBurnAlpha | HomeBrew | 2025-05-07 | [Icon](Icons/00000120.png) | [Small](Covers/00000120/Small/) / [Medium](Covers/00000120/Medium/) / [Large (default)](Covers/00000120/Large/) |
+| `00000120` (Actual/Homebrew Title ID: `00FBAFBA`) | FinalBurnAlpha | HomeBrew | 2025-05-07 | [Icon](Icons/00000120.png) | [Small](Covers/00000120/Small/) / [Medium](Covers/00000120/Medium/) / [Large (default)](Covers/00000120/Large/) |
 | `4541097B` | EA SPORTS FIFA Street | 360 | 2025-05-03 | [Icon](Icons/4541097B.png) | [Small](Covers/4541097B/Small/) / [Medium](Covers/4541097B/Medium/) / [Large (default)](Covers/4541097B/Large/) |
 | `58410930` | The Warriors: SB | XBLA | 2025-05-03 | [Icon](Icons/58410930.png) | [Small](Covers/58410930/Small/) / [Medium](Covers/58410930/Medium/) / [Large (default)](Covers/58410930/Large/) |
 | `584113EE` | R.I.P.D.: The Game | XBLA | 2025-04-29 | [Icon](Icons/584113EE.png) | [Small](Covers/584113EE/Small/) / [Medium](Covers/584113EE/Medium/) / [Large (default)](Covers/584113EE/Large/) |
@@ -38,15 +38,15 @@
 | `00000184` | OpenBOR360 | HomeBrew | 2025-04-28 | _None_ | [Small](Covers/00000184/Small/) / [Medium](Covers/00000184/Medium/) / [Large (default)](Covers/00000184/Large/) |
 | `4343081C` | Resident Evil 4 | 360 | 2025-04-28 | [Icon](Icons/4343081C.png) | [Small](Covers/4343081C/Small/) / [Medium](Covers/4343081C/Medium/) / [Large (default)](Covers/4343081C/Large/) |
 | `00000197` | ppsspp | HomeBrew | 2025-04-28 | [Icon](Icons/00000197.png) | [Small](Covers/00000197/Small/) / [Medium](Covers/00000197/Medium/) / [Large (default)](Covers/00000197/Large/) |
-| `00000124` | 3DO | HomeBrew | 2025-04-28 | [Icon](Icons/00000124.png) | [Small](Covers/00000124/Small/) / [Medium](Covers/00000124/Medium/) / [Large (default)](Covers/00000124/Large/) |
+| `00000124` (Actual/Homebrew Title ID: `000003D0`) | 3DO | HomeBrew | 2025-04-28 | [Icon](Icons/00000124.png) | [Small](Covers/00000124/Small/) / [Medium](Covers/00000124/Medium/) / [Large (default)](Covers/00000124/Large/) |
 | `584109CB` | Wolfenstein 3D | XBLA | 2025-04-24 | [Icon](Icons/584109CB.png) | [Small](Covers/584109CB/Small/) / [Medium](Covers/584109CB/Medium/) / [Large (default)](Covers/584109CB/Large/) |
 | `584109A7` | Wolfenstein 3D | XBLA | 2025-04-24 | [Icon](Icons/584109A7.png) | [Small](Covers/584109A7/Small/) / [Medium](Covers/584109A7/Medium/) / [Large (default)](Covers/584109A7/Large/) |
 | `00000172` | DSon360 | HomeBrew | 2025-04-16 | [Icon](Icons/00000172.png) | [Small](Covers/00000172/Small/) / [Medium](Covers/00000172/Medium/) / [Large (default)](Covers/00000172/Large/) |
-| `00000121` | DashLaunch | HomeBrew | 2025-04-13 | [Icon](Icons/00000121.png) | [Small](Covers/00000121/Small/) / [Medium](Covers/00000121/Medium/) / [Large (default)](Covers/00000121/Large/) |
+| `00000121` (Actual/Homebrew Title ID: `FFFF011D`) | DashLaunch | HomeBrew | 2025-04-13 | [Icon](Icons/00000121.png) | [Small](Covers/00000121/Small/) / [Medium](Covers/00000121/Medium/) / [Large (default)](Covers/00000121/Large/) |
 | `00000170` | XexMenu 2.0 | HomeBrew | 2025-04-13 | [Icon](Icons/00000170.png) | [Small](Covers/00000170/Small/) / [Medium](Covers/00000170/Medium/) / [Large (default)](Covers/00000170/Large/) |
-| `C0DE9999` | Xexmenu | HomeBrew | 2025-04-13 | [Icon](Icons/C0DE9999.png) | [Small](Covers/C0DE9999/Small/) / [Medium](Covers/C0DE9999/Medium/) / [Large (default)](Covers/C0DE9999/Large/) |
+| `C0DE9999` (Actual/Homebrew Title ID: `C0DE9999`) | Xexmenu | HomeBrew | 2025-04-13 | [Icon](Icons/C0DE9999.png) | [Small](Covers/C0DE9999/Small/) / [Medium](Covers/C0DE9999/Medium/) / [Large (default)](Covers/C0DE9999/Large/) |
 | `00000176` | XM360 | HomeBrew | 2025-04-13 | [Icon](Icons/00000176.png) | [Small](Covers/00000176/Small/) / [Medium](Covers/00000176/Medium/) / [Large (default)](Covers/00000176/Large/) |
-| `00000113` | XellLaunch | HomeBrew | 2025-04-13 | [Icon](Icons/00000113.png) | [Small](Covers/00000113/Small/) / [Medium](Covers/00000113/Medium/) / [Large (default)](Covers/00000113/Large/) |
+| `00000113` (Actual/Homebrew Title ID: `FFFE07D1`) | XellLaunch | HomeBrew | 2025-04-13 | [Icon](Icons/00000113.png) | [Small](Covers/00000113/Small/) / [Medium](Covers/00000113/Medium/) / [Large (default)](Covers/00000113/Large/) |
 | `373407D7` | Kung Fu Panda | 360 | 2025-04-12 | [Icon](Icons/373407D7.png) | [Small](Covers/373407D7/Small/) / [Medium](Covers/373407D7/Medium/) / [Large (default)](Covers/373407D7/Large/) |
 | `58411291` | Way of the Dogg | XBLA | 2025-04-09 | [Icon](Icons/58411291.png) | [Small](Covers/58411291/Small/) / [Medium](Covers/58411291/Medium/) / [Large (default)](Covers/58411291/Large/) |
 | `4A3007D3` | PRO EVOLUTION SOCCER 2018 | 360 | 2025-04-08 | [Icon](Icons/4A3007D3.png) | [Small](Covers/4A3007D3/Small/) / [Medium](Covers/4A3007D3/Medium/) / [Large (default)](Covers/4A3007D3/Large/) |
@@ -61,7 +61,7 @@
 | `FFFE07D1` | XeLL Launch | 360 | 2025-02-27 | [Icon](Icons/FFFE07D1.png) | [Small](Covers/FFFE07D1/Small/) / [Medium](Covers/FFFE07D1/Medium/) / [Large (default)](Covers/FFFE07D1/Large/) |
 | `454109F9` | EA SPORTS FIFA 19 Legacy Edition | 360 | 2025-02-12 | _None_ | [Small](Covers/454109F9/Small/) / [Medium](Covers/454109F9/Medium/) / [Large (default)](Covers/454109F9/Large/) |
 | `545407E6` | Mafia II | 360 | 2025-02-11 | [Icon](Icons/545407E6.png) | [Small](Covers/545407E6/Small/) / [Medium](Covers/545407E6/Medium/) / [Large (default)](Covers/545407E6/Large/) |
-| `00000116` | PlayStation 1 | HomeBrew | 2025-01-30 | [Icon](Icons/00000116.png) | [Small](Covers/00000116/Small/) / [Medium](Covers/00000116/Medium/) / [Large (default)](Covers/00000116/Large/) |
+| `00000116` (Actual/Homebrew Title ID: `1CED2911`) | PlayStation 1 | HomeBrew | 2025-01-30 | [Icon](Icons/00000116.png) | [Small](Covers/00000116/Small/) / [Medium](Covers/00000116/Medium/) / [Large (default)](Covers/00000116/Large/) |
 | `454109F4` | EA SPORTS™ FIFA 17 | 360 | 2025-01-12 | [Icon](Icons/454109F4.png) | [Small](Covers/454109F4/Small/) / [Medium](Covers/454109F4/Medium/) / [Large (default)](Covers/454109F4/Large/) |
 | `464F0802` | Terraria – Xbox 360 Edition | 360 | 2025-01-10 | [Icon](Icons/464F0802.png) | [Small](Covers/464F0802/Small/) / [Medium](Covers/464F0802/Medium/) / [Large (default)](Covers/464F0802/Large/) |
 | `454108D4` | Left 4 Dead 2 | 360 | 2025-01-05 | [Icon](Icons/454108D4.png) | [Small](Covers/454108D4/Small/) / [Medium](Covers/454108D4/Medium/) / [Large (default)](Covers/454108D4/Large/) |
@@ -572,7 +572,7 @@
 | `454108CF` | Dante's Inferno | 360 | 2023-12-04 | [Icon](Icons/454108CF.png) | [Small](Covers/454108CF/Small/) / [Medium](Covers/454108CF/Medium/) / [Large (default)](Covers/454108CF/Large/) |
 | `4D5307E8` | Mass Effect | 360 | 2023-12-04 | [Icon](Icons/4D5307E8.png) | [Small](Covers/4D5307E8/Small/) / [Medium](Covers/4D5307E8/Medium/) / [Large (default)](Covers/4D5307E8/Large/) |
 | `425307F3` | Dishonored Game of the Year Edition | 360 | 2023-12-04 | [Icon](Icons/425307F3.png) | [Small](Covers/425307F3/Small/) / [Medium](Covers/425307F3/Medium/) / [Large (default)](Covers/425307F3/Large/) |
-| `00000152` | Quake II | HomeBrew | 2023-12-04 | [Icon](Icons/00000152.png) | [Small](Covers/00000152/Small/) / [Medium](Covers/00000152/Medium/) / [Large (default)](Covers/00000152/Large/) |
+| `00000152` (Actual/Homebrew Title ID: `75447253`) | Quake II | HomeBrew | 2023-12-04 | [Icon](Icons/00000152.png) | [Small](Covers/00000152/Small/) / [Medium](Covers/00000152/Medium/) / [Large (default)](Covers/00000152/Large/) |
 | `434307D2` | DEAD RISING | 360 | 2023-12-04 | [Icon](Icons/434307D2.png) | [Small](Covers/434307D2/Small/) / [Medium](Covers/434307D2/Medium/) / [Large (default)](Covers/434307D2/Large/) |
 | `43430840` | Resident Evil: Revelations 2 | 360 | 2023-12-04 | [Icon](Icons/43430840.png) | [Small](Covers/43430840/Small/) / [Medium](Covers/43430840/Medium/) / [Large (default)](Covers/43430840/Large/) |
 | `434D07E9` | Clive Barker's Jericho | 360 | 2023-12-04 | [Icon](Icons/434D07E9.png) | [Small](Covers/434D07E9/Small/) / [Medium](Covers/434D07E9/Medium/) / [Large (default)](Covers/434D07E9/Large/) |
@@ -610,16 +610,16 @@
 | `4B4E002A` | TMNT 3 | Xbox1 | 2023-11-03 | _None_ | [Small](Covers/4B4E002A/Small/) / [Medium](Covers/4B4E002A/Medium/) / [Large (default)](Covers/4B4E002A/Large/) |
 | `4D4A0001` | BloodRayne | Xbox1 | 2023-11-03 | _None_ | [Small](Covers/4D4A0001/Small/) / [Medium](Covers/4D4A0001/Medium/) / [Large (default)](Covers/4D4A0001/Large/) |
 | `4B4E0023` | Teenage Mutant Ninja Turtles 2 Battlenexus | Xbox1 | 2023-11-03 | _None_ | [Small](Covers/4B4E0023/Small/) / [Medium](Covers/4B4E0023/Medium/) / [Large (default)](Covers/4B4E0023/Large/) |
-| `00000111` | Snes360 | HomeBrew | 2023-11-03 | [Icon](Icons/00000111.png) | [Small](Covers/00000111/Small/) / [Medium](Covers/00000111/Medium/) / [Large (default)](Covers/00000111/Large/) |
+| `00000111` (Actual/Homebrew Title ID: `FFED0707`) | Snes360 | HomeBrew | 2023-11-03 | [Icon](Icons/00000111.png) | [Small](Covers/00000111/Small/) / [Medium](Covers/00000111/Medium/) / [Large (default)](Covers/00000111/Large/) |
 | `5655000E` | Enclave | Xbox1 | 2023-11-03 | [Icon](Icons/5655000E.png) | [Small](Covers/5655000E/Small/) / [Medium](Covers/5655000E/Medium/) / [Large (default)](Covers/5655000E/Large/) |
 | `4B4E0020` | TMNT Mutant Melee | Xbox1 | 2023-11-03 | _None_ | [Small](Covers/4B4E0020/Small/) / [Medium](Covers/4B4E0020/Medium/) / [Large (default)](Covers/4B4E0020/Large/) |
-| `00000134` | PCEngine | HomeBrew | 2023-11-03 | [Icon](Icons/00000134.png) | [Small](Covers/00000134/Small/) / [Medium](Covers/00000134/Medium/) / [Large (default)](Covers/00000134/Large/) |
+| `00000134` (Actual/Homebrew Title ID: `03172006`) | PCEngine | HomeBrew | 2023-11-03 | [Icon](Icons/00000134.png) | [Small](Covers/00000134/Small/) / [Medium](Covers/00000134/Medium/) / [Large (default)](Covers/00000134/Large/) |
 | `4D4A000D` | BloodRayne 2 | Xbox1 | 2023-11-03 | _None_ | [Small](Covers/4D4A000D/Small/) / [Medium](Covers/4D4A000D/Medium/) / [Large (default)](Covers/4D4A000D/Large/) |
 | `46490002` | Futurama | Xbox1 | 2023-11-03 | _None_ | [Small](Covers/46490002/Small/) / [Medium](Covers/46490002/Medium/) / [Large (default)](Covers/46490002/Large/) |
 | `4D570029` | MK Shaolin Monks | Xbox1 | 2023-11-03 | _None_ | [Small](Covers/4D570029/Small/) / [Medium](Covers/4D570029/Medium/) / [Large (default)](Covers/4D570029/Large/) |
 | `54510025` | Evil Dead  Regeneration | Xbox1 | 2023-11-03 | _None_ | [Small](Covers/54510025/Small/) / [Medium](Covers/54510025/Medium/) / [Large (default)](Covers/54510025/Large/) |
 | `45410389` | Batman Begins | Xbox1 | 2023-11-03 | _None_ | [Small](Covers/45410389/Small/) / [Medium](Covers/45410389/Medium/) / [Large (default)](Covers/45410389/Large/) |
-| `00000114` | GameBoyAdvance360 | HomeBrew | 2023-11-03 | [Icon](Icons/00000114.png) | [Small](Covers/00000114/Small/) / [Medium](Covers/00000114/Medium/) / [Large (default)](Covers/00000114/Large/) |
+| `00000114` (Actual/Homebrew Title ID: `FFED7301`) | GameBoyAdvance360 | HomeBrew | 2023-11-03 | [Icon](Icons/00000114.png) | [Small](Covers/00000114/Small/) / [Medium](Covers/00000114/Medium/) / [Large (default)](Covers/00000114/Large/) |
 | `4B4E001B` | TMNT | Xbox1 | 2023-11-03 | _None_ | [Small](Covers/4B4E001B/Small/) / [Medium](Covers/4B4E001B/Medium/) / [Large (default)](Covers/4B4E001B/Large/) |
 | `4D4B07D7` | Worms Collection | 360 | 2023-10-22 | [Icon](Icons/4D4B07D7.png) | [Small](Covers/4D4B07D7/Small/) / [Medium](Covers/4D4B07D7/Medium/) / [Large (default)](Covers/4D4B07D7/Large/) |
 | `425607DB` | Narnia: Prince Caspian | 360 | 2023-10-22 | [Icon](Icons/425607DB.png) | [Small](Covers/425607DB/Small/) / [Medium](Covers/425607DB/Medium/) / [Large (default)](Covers/425607DB/Large/) |
@@ -1127,7 +1127,7 @@
 | `58410985` | Virtual-On OT | XBLA | 2021-05-21 | [Icon](Icons/58410985.png) | [Small](Covers/58410985/Small/) / [Medium](Covers/58410985/Medium/) / [Large (default)](Covers/58410985/Large/) |
 | `584108D1` | KOF98UM | XBLA | 2021-05-21 | [Icon](Icons/584108D1.png) | [Small](Covers/584108D1/Small/) / [Medium](Covers/584108D1/Medium/) / [Large (default)](Covers/584108D1/Large/) |
 | `58410A1F` | NEOGEO BATTLE COLISEUM | XBLA | 2021-05-21 | [Icon](Icons/58410A1F.png) | [Small](Covers/58410A1F/Small/) / [Medium](Covers/58410A1F/Medium/) / [Large (default)](Covers/58410A1F/Large/) |
-| `00000136` | Sega Megadrive | HomeBrew | 2021-05-11 | [Icon](Icons/00000136.png) | [Small](Covers/00000136/Small/) / [Medium](Covers/00000136/Medium/) / [Large (default)](Covers/00000136/Large/) |
+| `00000136` (Actual/Homebrew Title ID: `FFED7300`) | Sega Megadrive | HomeBrew | 2021-05-11 | [Icon](Icons/00000136.png) | [Small](Covers/00000136/Small/) / [Medium](Covers/00000136/Medium/) / [Large (default)](Covers/00000136/Large/) |
 | `00000166` | Aurora | HomeBrew | 2021-04-25 | [Icon](Icons/00000166.png) | [Small](Covers/00000166/Small/) / [Medium](Covers/00000166/Medium/) / [Large (default)](Covers/00000166/Large/) |
 | `54540883` | Nicktoons MLB | XBLA | 2021-04-21 | [Icon](Icons/54540883.png) | [Small](Covers/54540883/Small/) / [Medium](Covers/54540883/Medium/) / [Large (default)](Covers/54540883/Large/) |
 | `413307D6` | Air Conflicts: Pacific Carriers | 360 | 2021-04-21 | [Icon](Icons/413307D6.png) | [Small](Covers/413307D6/Small/) / [Medium](Covers/413307D6/Medium/) / [Large (default)](Covers/413307D6/Large/) |
@@ -1137,9 +1137,9 @@
 | `534E07D2` | KOF XII | 360 | 2021-04-08 | [Icon](Icons/534E07D2.png) | [Small](Covers/534E07D2/Small/) / [Medium](Covers/534E07D2/Medium/) / [Large (default)](Covers/534E07D2/Large/) |
 | `584108D0` | Samurai Shodown II | XBLA | 2021-04-08 | [Icon](Icons/584108D0.png) | [Small](Covers/584108D0/Small/) / [Medium](Covers/584108D0/Medium/) / [Large (default)](Covers/584108D0/Large/) |
 | `4B550001` | Innocent Tears | Xbox1 | 2021-04-06 | _None_ | [Small](Covers/4B550001/Small/) / [Medium](Covers/4B550001/Medium/) / [Large (default)](Covers/4B550001/Large/) |
-| `00000128` | Atari 7800 | HomeBrew | 2021-04-03 | [Icon](Icons/00000128.png) | [Small](Covers/00000128/Small/) / [Medium](Covers/00000128/Medium/) / [Large (default)](Covers/00000128/Large/) |
+| `00000128` (Actual/Homebrew Title ID: `08272006`) | Atari 7800 | HomeBrew | 2021-04-03 | [Icon](Icons/00000128.png) | [Small](Covers/00000128/Small/) / [Medium](Covers/00000128/Medium/) / [Large (default)](Covers/00000128/Large/) |
 | `43430817` | ASURA'S WRATH | 360 | 2021-04-03 | [Icon](Icons/43430817.png) | [Small](Covers/43430817/Small/) / [Medium](Covers/43430817/Medium/) / [Large (default)](Covers/43430817/Large/) |
-| `00000118` | Snes360 PAL simpel v1 | HomeBrew | 2021-04-03 | [Icon](Icons/00000118.png) | [Small](Covers/00000118/Small/) / [Medium](Covers/00000118/Medium/) / [Large (default)](Covers/00000118/Large/) |
+| `00000118` (Actual/Homebrew Title ID: `00001039`) | Snes360 PAL simpel v1 | HomeBrew | 2021-04-03 | [Icon](Icons/00000118.png) | [Small](Covers/00000118/Small/) / [Medium](Covers/00000118/Medium/) / [Large (default)](Covers/00000118/Large/) |
 | `45410049` | Def Jam Fight For New York | Xbox1 | 2021-03-21 | _None_ | [Small](Covers/45410049/Small/) / [Medium](Covers/45410049/Medium/) / [Large (default)](Covers/45410049/Large/) |
 | `45410072` | FIFA Street NTSC | Xbox1 | 2021-03-21 | _None_ | [Small](Covers/45410072/Small/) / [Medium](Covers/45410072/Medium/) / [Large (default)](Covers/45410072/Large/) |
 | `00000177` | NXE2GOD | HomeBrew | 2021-03-14 | [Icon](Icons/00000177.png) | [Small](Covers/00000177/Small/) / [Medium](Covers/00000177/Medium/) / [Large (default)](Covers/00000177/Large/) |
@@ -1234,7 +1234,7 @@
 | `48410057` | NFL Street 2 | Xbox1 | 2020-05-02 | _None_ | [Small](Covers/48410057/Small/) / [Medium](Covers/48410057/Medium/) / [Large (default)](Covers/48410057/Large/) |
 | `58410826` | Hexic 2 | XBLA | 2020-04-25 | [Icon](Icons/58410826.png) | [Small](Covers/58410826/Small/) / [Medium](Covers/58410826/Medium/) / [Large (default)](Covers/58410826/Large/) |
 | `434D0011` | Toca Race Driver 2 | Xbox1 | 2020-04-22 | _None_ | [Small](Covers/434D0011/Small/) / [Medium](Covers/434D0011/Medium/) / [Large (default)](Covers/434D0011/Large/) |
-| `00000122` | Amiga360 | HomeBrew | 2020-04-21 | [Icon](Icons/00000122.png) | [Small](Covers/00000122/Small/) / [Medium](Covers/00000122/Medium/) / [Large (default)](Covers/00000122/Large/) |
+| `00000122` (Actual/Homebrew Title ID: `FFFFA500`) | Amiga360 | HomeBrew | 2020-04-21 | [Icon](Icons/00000122.png) | [Small](Covers/00000122/Small/) / [Medium](Covers/00000122/Medium/) / [Large (default)](Covers/00000122/Large/) |
 | `5841090B` | Dash of Destruction | XBLA | 2020-04-20 | _None_ | [Small](Covers/5841090B/Small/) / [Medium](Covers/5841090B/Medium/) / [Large (default)](Covers/5841090B/Large/) |
 | `584108DB` | A Kingdom for Keflings | XBLA | 2020-04-19 | [Icon](Icons/584108DB.png) | [Small](Covers/584108DB/Small/) / [Medium](Covers/584108DB/Medium/) / [Large (default)](Covers/584108DB/Large/) |
 | `4D49000B` | Still Life | Xbox1 | 2020-04-10 | _None_ | [Small](Covers/4D49000B/Small/) / [Medium](Covers/4D49000B/Medium/) / [Large (default)](Covers/4D49000B/Large/) |
@@ -1392,7 +1392,7 @@
 | `4D53002D` | DEAD OR ALIVE 3 | Xbox1 | 2018-07-03 | _None_ | [Small](Covers/4D53002D/Small/) / [Medium](Covers/4D53002D/Medium/) / [Large (default)](Covers/4D53002D/Large/) |
 | `54430001` | Dead or Alive 3 | Xbox1 | 2018-07-03 | _None_ | [Small](Covers/54430001/Small/) / [Medium](Covers/54430001/Medium/) / [Large (default)](Covers/54430001/Large/) |
 | `584113CF` | God Mode | XBLA | 2018-06-28 | [Icon](Icons/584113CF.png) | [Small](Covers/584113CF/Small/) / [Medium](Covers/584113CF/Medium/) / [Large (default)](Covers/584113CF/Large/) |
-| `00000126` | Atari 2600 | HomeBrew | 2018-06-27 | [Icon](Icons/00000126.png) | [Small](Covers/00000126/Small/) / [Medium](Covers/00000126/Medium/) / [Large (default)](Covers/00000126/Large/) |
+| `00000126` (Actual/Homebrew Title ID: `FFFF051F`) | Atari 2600 | HomeBrew | 2018-06-27 | [Icon](Icons/00000126.png) | [Small](Covers/00000126/Small/) / [Medium](Covers/00000126/Medium/) / [Large (default)](Covers/00000126/Large/) |
 | `57520838` | World's Best Driver | 360 | 2018-06-20 | [Icon](Icons/57520838.png) | [Small](Covers/57520838/Small/) / [Medium](Covers/57520838/Medium/) / [Large (default)](Covers/57520838/Large/) |
 | `45410814` | NASCAR 08 | 360 | 2018-06-16 | [Icon](Icons/45410814.png) | [Small](Covers/45410814/Small/) / [Medium](Covers/45410814/Medium/) / [Large (default)](Covers/45410814/Large/) |
 | `4B5607E3` | Fist of the North Star: Ken's rage 2 | 360 | 2018-06-08 | [Icon](Icons/4B5607E3.png) | [Small](Covers/4B5607E3/Small/) / [Medium](Covers/4B5607E3/Medium/) / [Large (default)](Covers/4B5607E3/Large/) |
@@ -1542,7 +1542,7 @@
 | `494707EE` | Assault on Dark Athena | 360 | 2017-07-25 | [Icon](Icons/494707EE.png) | [Small](Covers/494707EE/Small/) / [Medium](Covers/494707EE/Medium/) / [Large (default)](Covers/494707EE/Large/) |
 | `4156091C` | Destiny Demo | 360 | 2017-07-13 | [Icon](Icons/4156091C.png) | [Small](Covers/4156091C/Small/) / [Medium](Covers/4156091C/Medium/) / [Large (default)](Covers/4156091C/Large/) |
 | `425607FE` | Cars 2: The Video Game | 360 | 2017-07-13 | [Icon](Icons/425607FE.png) | [Small](Covers/425607FE/Small/) / [Medium](Covers/425607FE/Medium/) / [Large (default)](Covers/425607FE/Large/) |
-| `00000132` | MSX | HomeBrew | 2017-07-12 | [Icon](Icons/00000132.png) | [Small](Covers/00000132/Small/) / [Medium](Covers/00000132/Medium/) / [Large (default)](Covers/00000132/Large/) |
+| `00000132` (Actual/Homebrew Title ID: `10022007`) | MSX | HomeBrew | 2017-07-12 | [Icon](Icons/00000132.png) | [Small](Covers/00000132/Small/) / [Medium](Covers/00000132/Medium/) / [Large (default)](Covers/00000132/Large/) |
 | `54540009` | Mafia | Xbox1 | 2017-07-12 | _None_ | [Small](Covers/54540009/Small/) / [Medium](Covers/54540009/Medium/) / [Large (default)](Covers/54540009/Large/) |
 | `54510875` | Rio | 360 | 2017-07-11 | [Icon](Icons/54510875.png) | [Small](Covers/54510875/Small/) / [Medium](Covers/54510875/Medium/) / [Large (default)](Covers/54510875/Large/) |
 | `484507DA` | Rugby League Live 3 | 360 | 2017-07-01 | [Icon](Icons/484507DA.png) | [Small](Covers/484507DA/Small/) / [Medium](Covers/484507DA/Medium/) / [Large (default)](Covers/484507DA/Large/) |
@@ -1857,8 +1857,8 @@
 | `585503B0` | Leave Home | 360 | 2016-10-05 | _None_ | [Small](Covers/585503B0/Small/) / [Medium](Covers/585503B0/Medium/) / [Large (default)](Covers/585503B0/Large/) |
 | `58550B60` | Penny Arcade's Rain-slick 3 | 360 | 2016-10-05 | _None_ | [Small](Covers/58550B60/Small/) / [Medium](Covers/58550B60/Medium/) / [Large (default)](Covers/58550B60/Large/) |
 | `584108C3` | Assault Heroes 2 | XBLA | 2016-10-05 | [Icon](Icons/584108C3.png) | [Small](Covers/584108C3/Small/) / [Medium](Covers/584108C3/Medium/) / [Large (default)](Covers/584108C3/Large/) |
-| `00000199` | Shutshimi | HomeBrew | 2016-10-05 | [Icon](Icons/00000199.png) | [Small](Covers/00000199/Small/) / [Medium](Covers/00000199/Medium/) / [Large (default)](Covers/00000199/Large/) |
-| `00000200` | Penny Arcade's Rain-slick 3 | HomeBrew | 2016-10-05 | [Icon](Icons/00000200.png) | [Small](Covers/00000200/Small/) / [Medium](Covers/00000200/Medium/) / [Large (default)](Covers/00000200/Large/) |
+| `00000199` (Actual/Homebrew Title ID: `58550E53`) | Shutshimi | HomeBrew | 2016-10-05 | [Icon](Icons/00000199.png) | [Small](Covers/00000199/Small/) / [Medium](Covers/00000199/Medium/) / [Large (default)](Covers/00000199/Large/) |
+| `00000200` (Actual/Homebrew Title ID: `58550B60`) | Penny Arcade's Rain-slick 3 | HomeBrew | 2016-10-05 | [Icon](Icons/00000200.png) | [Small](Covers/00000200/Small/) / [Medium](Covers/00000200/Medium/) / [Large (default)](Covers/00000200/Large/) |
 | `55530016` | Murakumo: Renegade Mech Pursuit | Xbox1 | 2016-10-05 | _None_ | [Small](Covers/55530016/Small/) / [Medium](Covers/55530016/Medium/) / [Large (default)](Covers/55530016/Large/) |
 | `58550CDE` | Death Goat | 360 | 2016-10-04 | _None_ | [Small](Covers/58550CDE/Small/) / [Medium](Covers/58550CDE/Medium/) / [Large (default)](Covers/58550CDE/Large/) |
 | `56550036` | Crash Twinsanity | Xbox1 | 2016-10-04 | _None_ | [Small](Covers/56550036/Small/) / [Medium](Covers/56550036/Medium/) / [Large (default)](Covers/56550036/Large/) |

@@ -1442,7 +1442,7 @@
 | `354807DE` | The Book of Unwritten Tales 2 | 360 | 2015-10-24 | [Icon](Icons/354807DE.png) | [Small](Covers/354807DE/Small/) / [Medium](Covers/354807DE/Medium/) / [Large (default)](Covers/354807DE/Large/) |
 | `4D5388BB` | Mass Effect Bonus Disc | 360 | 2015-10-18 | _None_ | [Small](Covers/4D5388BB/Small/) / [Medium](Covers/4D5388BB/Medium/) / [Large (default)](Covers/4D5388BB/Large/) |
 | `4D57001C` | Midway Arcade Treasures | Xbox1 | 2015-10-17 | _None_ | [Small](Covers/4D57001C/Small/) / [Medium](Covers/4D57001C/Medium/) / [Large (default)](Covers/4D57001C/Large/) |
-| `00000133` | Neogeo pocket | HomeBrew | 2015-10-16 | [Icon](Icons/00000133.png) | [Small](Covers/00000133/Small/) / [Medium](Covers/00000133/Medium/) / [Large (default)](Covers/00000133/Large/) |
+| `00000133` (Actual/Homebrew Title ID: `07022007`) | Neogeo pocket | HomeBrew | 2015-10-16 | [Icon](Icons/00000133.png) | [Small](Covers/00000133/Small/) / [Medium](Covers/00000133/Medium/) / [Large (default)](Covers/00000133/Large/) |
 | `42560003` | The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe | Xbox1 | 2015-10-15 | _None_ | [Small](Covers/42560003/Small/) / [Medium](Covers/42560003/Medium/) / [Large (default)](Covers/42560003/Large/) |
 | `54510026` | DestroyAllHumans | Xbox1 | 2015-10-14 | _None_ | [Small](Covers/54510026/Small/) / [Medium](Covers/54510026/Medium/) / [Large (default)](Covers/54510026/Large/) |
 | `4D5307F0` | Everyparty | 360 | 2015-10-13 | [Icon](Icons/4D5307F0.png) | [Small](Covers/4D5307F0/Small/) / [Medium](Covers/4D5307F0/Medium/) / [Large (default)](Covers/4D5307F0/Large/) |
@@ -1606,7 +1606,7 @@
 | `4C5307D4` | SBK09 | 360 | 2015-03-17 | [Icon](Icons/4C5307D4.png) | [Small](Covers/4C5307D4/Small/) / [Medium](Covers/4C5307D4/Medium/) / [Large (default)](Covers/4C5307D4/Large/) |
 | `434D07DE` | Rise of the Argonauts | 360 | 2015-03-14 | [Icon](Icons/434D07DE.png) | [Small](Covers/434D07DE/Small/) / [Medium](Covers/434D07DE/Medium/) / [Large (default)](Covers/434D07DE/Large/) |
 | `534300FB` | Just Cause | Xbox1 | 2015-03-09 | [Icon](Icons/534300FB.png) | [Small](Covers/534300FB/Small/) / [Medium](Covers/534300FB/Medium/) / [Large (default)](Covers/534300FB/Large/) |
-| `00000159` | XellLaunch GOD by Pa0l0ne | HomeBrew | 2015-03-06 | [Icon](Icons/00000159.png) | [Small](Covers/00000159/Small/) / [Medium](Covers/00000159/Medium/) / [Large (default)](Covers/00000159/Large/) |
+| `00000159` (Actual/Homebrew Title ID: `FFFEFF43`) | XellLaunch GOD by Pa0l0ne | HomeBrew | 2015-03-06 | [Icon](Icons/00000159.png) | [Small](Covers/00000159/Small/) / [Medium](Covers/00000159/Medium/) / [Large (default)](Covers/00000159/Large/) |
 | `4D530046` | PhantomDust | Xbox1 | 2015-03-05 | _None_ | [Small](Covers/4D530046/Small/) / [Medium](Covers/4D530046/Medium/) / [Large (default)](Covers/4D530046/Large/) |
 | `4D530A95` | Zoo Tycoon | 360 | 2015-03-02 | [Icon](Icons/4D530A95.png) | [Small](Covers/4D530A95/Small/) / [Medium](Covers/4D530A95/Medium/) / [Large (default)](Covers/4D530A95/Large/) |
 | `58550D68` | BLOOD&BACON | 360 | 2015-03-02 | _None_ | [Small](Covers/58550D68/Small/) / [Medium](Covers/58550D68/Medium/) / [Large (default)](Covers/58550D68/Large/) |
@@ -1640,7 +1640,7 @@
 | `415707DA` | BLAZBLUE CS | 360 | 2015-02-02 | [Icon](Icons/415707DA.png) | [Small](Covers/415707DA/Small/) / [Medium](Covers/415707DA/Medium/) / [Large (default)](Covers/415707DA/Large/) |
 | `4B4D07FE` | Escape Dead Island | 360 | 2015-02-02 | [Icon](Icons/4B4D07FE.png) | [Small](Covers/4B4D07FE/Small/) / [Medium](Covers/4B4D07FE/Medium/) / [Large (default)](Covers/4B4D07FE/Large/) |
 | `4E4D000C` | Spawn: Armageddon | Xbox1 | 2015-02-01 | _None_ | [Small](Covers/4E4D000C/Small/) / [Medium](Covers/4E4D000C/Medium/) / [Large (default)](Covers/4E4D000C/Large/) |
-| `00000142` | Star Control 2 | HomeBrew | 2015-01-29 | [Icon](Icons/00000142.png) | [Small](Covers/00000142/Small/) / [Medium](Covers/00000142/Medium/) / [Large (default)](Covers/00000142/Large/) |
+| `00000142` (Actual/Homebrew Title ID: `66776655`) | Star Control 2 | HomeBrew | 2015-01-29 | [Icon](Icons/00000142.png) | [Small](Covers/00000142/Small/) / [Medium](Covers/00000142/Medium/) / [Large (default)](Covers/00000142/Large/) |
 | `4C410017` | Star Wars Episode 3 | Xbox1 | 2015-01-29 | _None_ | [Small](Covers/4C410017/Small/) / [Medium](Covers/4C410017/Medium/) / [Large (default)](Covers/4C410017/Large/) |
 | `4D57002C` | The Suffering Ties That Bind | Xbox1 | 2015-01-29 | _None_ | [Small](Covers/4D57002C/Small/) / [Medium](Covers/4D57002C/Medium/) / [Large (default)](Covers/4D57002C/Large/) |
 | `494707E0` | Fahrenheit | Xbox1 | 2015-01-28 | _None_ | [Small](Covers/494707E0/Small/) / [Medium](Covers/494707E0/Medium/) / [Large (default)](Covers/494707E0/Large/) |
@@ -1725,7 +1725,7 @@
 | `513107D1` | MotoGP13 | 360 | 2014-12-21 | [Icon](Icons/513107D1.png) | [Small](Covers/513107D1/Small/) / [Medium](Covers/513107D1/Medium/) / [Large (default)](Covers/513107D1/Large/) |
 | `5553003C` | Brothers In Arms Road To Hill 30 | Xbox1 | 2014-12-21 | _None_ | [Small](Covers/5553003C/Small/) / [Medium](Covers/5553003C/Medium/) / [Large (default)](Covers/5553003C/Large/) |
 | `434D0847` | F1 2012 | 360 | 2014-12-21 | [Icon](Icons/434D0847.png) | [Small](Covers/434D0847/Small/) / [Medium](Covers/434D0847/Medium/) / [Large (default)](Covers/434D0847/Large/) |
-| `00000160` | XYZProject | HomeBrew | 2014-12-20 | [Icon](Icons/00000160.png) | [Small](Covers/00000160/Small/) / [Medium](Covers/00000160/Medium/) / [Large (default)](Covers/00000160/Large/) |
+| `00000160` (Actual/Homebrew Title ID: `FEEDC0DE`) | XYZProject | HomeBrew | 2014-12-20 | [Icon](Icons/00000160.png) | [Small](Covers/00000160/Small/) / [Medium](Covers/00000160/Medium/) / [Large (default)](Covers/00000160/Large/) |
 | `58550979` | The Fall of Gods | 360 | 2014-12-20 | _None_ | [Small](Covers/58550979/Small/) / [Medium](Covers/58550979/Medium/) / [Large (default)](Covers/58550979/Large/) |
 | `5855046A` | Spot The Difference | 360 | 2014-12-20 | _None_ | [Small](Covers/5855046A/Small/) / [Medium](Covers/5855046A/Medium/) / [Large (default)](Covers/5855046A/Large/) |
 | `5553082F` | Shaun White Skateboarding | 360 | 2014-12-20 | [Icon](Icons/5553082F.png) | [Small](Covers/5553082F/Small/) / [Medium](Covers/5553082F/Medium/) / [Large (default)](Covers/5553082F/Large/) |
@@ -1777,7 +1777,7 @@
 | `4156090D` | Duck Dynasty | 360 | 2014-10-23 | [Icon](Icons/4156090D.png) | [Small](Covers/4156090D/Small/) / [Medium](Covers/4156090D/Medium/) / [Large (default)](Covers/4156090D/Large/) |
 | `573607D9` | Handball Challenge 14 | 360 | 2014-10-20 | [Icon](Icons/573607D9.png) | [Small](Covers/573607D9/Small/) / [Medium](Covers/573607D9/Medium/) / [Large (default)](Covers/573607D9/Large/) |
 | `545108AF` | Wheel of Fortune | 360 | 2014-10-15 | [Icon](Icons/545108AF.png) | [Small](Covers/545108AF/Small/) / [Medium](Covers/545108AF/Medium/) / [Large (default)](Covers/545108AF/Large/) |
-| `00000149` | Doom Legacy | HomeBrew | 2014-10-14 | [Icon](Icons/00000149.png) | [Small](Covers/00000149/Small/) / [Medium](Covers/00000149/Medium/) / [Large (default)](Covers/00000149/Large/) |
+| `00000149` (Actual/Homebrew Title ID: `D008D009`) | Doom Legacy | HomeBrew | 2014-10-14 | [Icon](Icons/00000149.png) | [Small](Covers/00000149/Small/) / [Medium](Covers/00000149/Medium/) / [Large (default)](Covers/00000149/Large/) |
 | `4541099B` | NHL13 | 360 | 2014-10-12 | [Icon](Icons/4541099B.png) | [Small](Covers/4541099B/Small/) / [Medium](Covers/4541099B/Medium/) / [Large (default)](Covers/4541099B/Large/) |
 | `415608BE` | Cabela's Survival: SoK | 360 | 2014-10-12 | [Icon](Icons/415608BE.png) | [Small](Covers/415608BE/Small/) / [Medium](Covers/415608BE/Medium/) / [Large (default)](Covers/415608BE/Large/) |
 | `415407D8` | Divinity II: TDKS | 360 | 2014-10-05 | [Icon](Icons/415407D8.png) | [Small](Covers/415407D8/Small/) / [Medium](Covers/415407D8/Medium/) / [Large (default)](Covers/415407D8/Large/) |
@@ -1822,7 +1822,7 @@
 | `454107EB` | Madden NFL 07 | 360 | 2014-05-19 | [Icon](Icons/454107EB.png) | [Small](Covers/454107EB/Small/) / [Medium](Covers/454107EB/Medium/) / [Large (default)](Covers/454107EB/Large/) |
 | `41560052` | Cabelas Dangerous Hunts 2 | Xbox1 | 2014-05-19 | _None_ | [Small](Covers/41560052/Small/) / [Medium](Covers/41560052/Medium/) / [Large (default)](Covers/41560052/Large/) |
 | `41560888` | TONY HAWK: SHRED | 360 | 2014-05-17 | [Icon](Icons/41560888.png) | [Small](Covers/41560888/Small/) / [Medium](Covers/41560888/Medium/) / [Large (default)](Covers/41560888/Large/) |
-| `00000161` | COD Ghosts Trainer | HomeBrew | 2014-05-17 | [Icon](Icons/00000161.png) | [Small](Covers/00000161/Small/) / [Medium](Covers/00000161/Medium/) / [Large (default)](Covers/00000161/Large/) |
+| `00000161` (Actual/Homebrew Title ID: `415608FC`) | COD Ghosts Trainer | HomeBrew | 2014-05-17 | [Icon](Icons/00000161.png) | [Small](Covers/00000161/Small/) / [Medium](Covers/00000161/Medium/) / [Large (default)](Covers/00000161/Large/) |
 | `454D0008` | Bad Boys 2 | Xbox1 | 2014-05-12 | _None_ | [Small](Covers/454D0008/Small/) / [Medium](Covers/454D0008/Medium/) / [Large (default)](Covers/454D0008/Large/) |
 | `41560009` | Rally Fusion | Xbox1 | 2014-05-11 | _None_ | [Small](Covers/41560009/Small/) / [Medium](Covers/41560009/Medium/) / [Large (default)](Covers/41560009/Large/) |
 | `54540015` | Motocross Mania 3 | Xbox1 | 2014-05-11 | _None_ | [Small](Covers/54540015/Small/) / [Medium](Covers/54540015/Medium/) / [Large (default)](Covers/54540015/Large/) |
@@ -1938,7 +1938,7 @@
 | `42570001` | Robot Wars | Xbox1 | 2013-07-01 | [Icon](Icons/42570001.png) | [Small](Covers/42570001/Small/) / [Medium](Covers/42570001/Medium/) / [Large (default)](Covers/42570001/Large/) |
 | `4D5307D4` | エブリパーティ | 360 | 2013-06-28 | [Icon](Icons/4D5307D4.png) | [Small](Covers/4D5307D4/Small/) / [Medium](Covers/4D5307D4/Medium/) / [Large (default)](Covers/4D5307D4/Large/) |
 | `4D570002` | Arctic Thunder | Xbox1 | 2013-06-25 | _None_ | [Small](Covers/4D570002/Small/) / [Medium](Covers/4D570002/Medium/) / [Large (default)](Covers/4D570002/Large/) |
-| `00000156` | Super Transball 2 | HomeBrew | 2013-06-24 | [Icon](Icons/00000156.png) | [Small](Covers/00000156/Small/) / [Medium](Covers/00000156/Medium/) / [Large (default)](Covers/00000156/Large/) |
+| `00000156` (Actual/Homebrew Title ID: `53544232`) | Super Transball 2 | HomeBrew | 2013-06-24 | [Icon](Icons/00000156.png) | [Small](Covers/00000156/Small/) / [Medium](Covers/00000156/Medium/) / [Large (default)](Covers/00000156/Large/) |
 | `4D57000A` | nfl blitz 2003 | Xbox1 | 2013-06-24 | _None_ | [Small](Covers/4D57000A/Small/) / [Medium](Covers/4D57000A/Medium/) / [Large (default)](Covers/4D57000A/Large/) |
 | `43560002` | ufc tapout | Xbox1 | 2013-06-24 | _None_ | [Small](Covers/43560002/Small/) / [Medium](Covers/43560002/Medium/) / [Large (default)](Covers/43560002/Large/) |
 | `45430002` | grooverider slot car thunder | Xbox1 | 2013-06-24 | _None_ | [Small](Covers/45430002/Small/) / [Medium](Covers/45430002/Medium/) / [Large (default)](Covers/45430002/Large/) |
@@ -1973,19 +1973,19 @@
 | `4541003D` | Harry Potter Quidditch World Cup | Xbox1 | 2013-05-01 | _None_ | [Small](Covers/4541003D/Small/) / [Medium](Covers/4541003D/Medium/) / [Large (default)](Covers/4541003D/Large/) |
 | `544707D1` | シューティング ラブ。２００Ｘ | 360 | 2013-04-28 | [Icon](Icons/544707D1.png) | [Small](Covers/544707D1/Small/) / [Medium](Covers/544707D1/Medium/) / [Large (default)](Covers/544707D1/Large/) |
 | `45410058` | NBA Street V3 | Xbox1 | 2013-04-11 | _None_ | [Small](Covers/45410058/Small/) / [Medium](Covers/45410058/Medium/) / [Large (default)](Covers/45410058/Large/) |
-| `00000140` | Rise of the Triad | HomeBrew | 2013-04-07 | [Icon](Icons/00000140.png) | [Small](Covers/00000140/Small/) / [Medium](Covers/00000140/Medium/) / [Large (default)](Covers/00000140/Large/) |
-| `00000139` | Vectoroids | HomeBrew | 2013-04-07 | [Icon](Icons/00000139.png) | [Small](Covers/00000139/Small/) / [Medium](Covers/00000139/Medium/) / [Large (default)](Covers/00000139/Large/) |
-| `00000153` | Streets of Rage Remake | HomeBrew | 2013-04-07 | [Icon](Icons/00000153.png) | [Small](Covers/00000153/Small/) / [Medium](Covers/00000153/Medium/) / [Large (default)](Covers/00000153/Large/) |
-| `00000154` | Stepmania | HomeBrew | 2013-04-07 | [Icon](Icons/00000154.png) | [Small](Covers/00000154/Small/) / [Medium](Covers/00000154/Medium/) / [Large (default)](Covers/00000154/Large/) |
-| `00000143` | A Tale of Vengeance | HomeBrew | 2013-04-07 | [Icon](Icons/00000143.png) | [Small](Covers/00000143/Small/) / [Medium](Covers/00000143/Medium/) / [Large (default)](Covers/00000143/Large/) |
-| `00000141` | Road Fighter | HomeBrew | 2013-04-07 | [Icon](Icons/00000141.png) | [Small](Covers/00000141/Small/) / [Medium](Covers/00000141/Medium/) / [Large (default)](Covers/00000141/Large/) |
-| `00000144` | Abuse | HomeBrew | 2013-04-07 | [Icon](Icons/00000144.png) | [Small](Covers/00000144/Small/) / [Medium](Covers/00000144/Medium/) / [Large (default)](Covers/00000144/Large/) |
-| `00000150` | Mad Bomber | HomeBrew | 2013-04-07 | [Icon](Icons/00000150.png) | [Small](Covers/00000150/Small/) / [Medium](Covers/00000150/Medium/) / [Large (default)](Covers/00000150/Large/) |
-| `00000148` | Dink Smallwood | HomeBrew | 2013-04-07 | [Icon](Icons/00000148.png) | [Small](Covers/00000148/Small/) / [Medium](Covers/00000148/Medium/) / [Large (default)](Covers/00000148/Large/) |
-| `00000146` | Defendguin | HomeBrew | 2013-04-07 | [Icon](Icons/00000146.png) | [Small](Covers/00000146/Small/) / [Medium](Covers/00000146/Medium/) / [Large (default)](Covers/00000146/Large/) |
-| `00000145` | Biniax 2 | HomeBrew | 2013-04-07 | [Icon](Icons/00000145.png) | [Small](Covers/00000145/Small/) / [Medium](Covers/00000145/Medium/) / [Large (default)](Covers/00000145/Large/) |
-| `00000147` | Descent | HomeBrew | 2013-04-07 | [Icon](Icons/00000147.png) | [Small](Covers/00000147/Small/) / [Medium](Covers/00000147/Medium/) / [Large (default)](Covers/00000147/Large/) |
-| `00000151` | Maze of Galious | HomeBrew | 2013-04-07 | [Icon](Icons/00000151.png) | [Small](Covers/00000151/Small/) / [Medium](Covers/00000151/Medium/) / [Large (default)](Covers/00000151/Large/) |
+| `00000140` (Actual/Homebrew Title ID: `FFFF7269`) | Rise of the Triad | HomeBrew | 2013-04-07 | [Icon](Icons/00000140.png) | [Small](Covers/00000140/Small/) / [Medium](Covers/00000140/Medium/) / [Large (default)](Covers/00000140/Large/) |
+| `00000139` (Actual/Homebrew Title ID: `56454354`) | Vectoroids | HomeBrew | 2013-04-07 | [Icon](Icons/00000139.png) | [Small](Covers/00000139/Small/) / [Medium](Covers/00000139/Medium/) / [Large (default)](Covers/00000139/Large/) |
+| `00000153` (Actual/Homebrew Title ID: `0A600850`) | Streets of Rage Remake | HomeBrew | 2013-04-07 | [Icon](Icons/00000153.png) | [Small](Covers/00000153/Small/) / [Medium](Covers/00000153/Medium/) / [Large (default)](Covers/00000153/Large/) |
+| `00000154` (Actual/Homebrew Title ID: `33342530`) | Stepmania | HomeBrew | 2013-04-07 | [Icon](Icons/00000154.png) | [Small](Covers/00000154/Small/) / [Medium](Covers/00000154/Medium/) / [Large (default)](Covers/00000154/Large/) |
+| `00000143` (Actual/Homebrew Title ID: `02142006`) | A Tale of Vengeance | HomeBrew | 2013-04-07 | [Icon](Icons/00000143.png) | [Small](Covers/00000143/Small/) / [Medium](Covers/00000143/Medium/) / [Large (default)](Covers/00000143/Large/) |
+| `00000141` (Actual/Homebrew Title ID: `52444654`) | Road Fighter | HomeBrew | 2013-04-07 | [Icon](Icons/00000141.png) | [Small](Covers/00000141/Small/) / [Medium](Covers/00000141/Medium/) / [Large (default)](Covers/00000141/Large/) |
+| `00000144` (Actual/Homebrew Title ID: `07052006`) | Abuse | HomeBrew | 2013-04-07 | [Icon](Icons/00000144.png) | [Small](Covers/00000144/Small/) / [Medium](Covers/00000144/Medium/) / [Large (default)](Covers/00000144/Large/) |
+| `00000150` (Actual/Homebrew Title ID: `00C76C3B`) | Mad Bomber | HomeBrew | 2013-04-07 | [Icon](Icons/00000150.png) | [Small](Covers/00000150/Small/) / [Medium](Covers/00000150/Medium/) / [Large (default)](Covers/00000150/Large/) |
+| `00000148` (Actual/Homebrew Title ID: `0A600220`) | Dink Smallwood | HomeBrew | 2013-04-07 | [Icon](Icons/00000148.png) | [Small](Covers/00000148/Small/) / [Medium](Covers/00000148/Medium/) / [Large (default)](Covers/00000148/Large/) |
+| `00000146` (Actual/Homebrew Title ID: `44464E47`) | Defendguin | HomeBrew | 2013-04-07 | [Icon](Icons/00000146.png) | [Small](Covers/00000146/Small/) / [Medium](Covers/00000146/Medium/) / [Large (default)](Covers/00000146/Large/) |
+| `00000145` (Actual/Homebrew Title ID: `00103081`) | Biniax 2 | HomeBrew | 2013-04-07 | [Icon](Icons/00000145.png) | [Small](Covers/00000145/Small/) / [Medium](Covers/00000145/Medium/) / [Large (default)](Covers/00000145/Large/) |
+| `00000147` (Actual/Homebrew Title ID: `0A600853`) | Descent | HomeBrew | 2013-04-07 | [Icon](Icons/00000147.png) | [Small](Covers/00000147/Small/) / [Medium](Covers/00000147/Medium/) / [Large (default)](Covers/00000147/Large/) |
+| `00000151` (Actual/Homebrew Title ID: `584D4F47`) | Maze of Galious | HomeBrew | 2013-04-07 | [Icon](Icons/00000151.png) | [Small](Covers/00000151/Small/) / [Medium](Covers/00000151/Medium/) / [Large (default)](Covers/00000151/Large/) |
 | `4D53005D` | Links 2004 | Xbox1 | 2013-04-02 | _None_ | [Small](Covers/4D53005D/Small/) / [Medium](Covers/4D53005D/Medium/) / [Large (default)](Covers/4D53005D/Large/) |
 | `4343000C` | Robin Hood Defender of the Crown | Xbox1 | 2013-03-30 | _None_ | [Small](Covers/4343000C/Small/) / [Medium](Covers/4343000C/Medium/) / [Large (default)](Covers/4343000C/Large/) |
 | `484507D2` | AFL Live | 360 | 2013-03-21 | [Icon](Icons/484507D2.png) | [Small](Covers/484507D2/Small/) / [Medium](Covers/484507D2/Medium/) / [Large (default)](Covers/484507D2/Large/) |
@@ -1995,19 +1995,19 @@
 | `4B5907E0` | Air Conflicts: Secret Wars | 360 | 2013-03-09 | [Icon](Icons/4B5907E0.png) | [Small](Covers/4B5907E0/Small/) / [Medium](Covers/4B5907E0/Medium/) / [Large (default)](Covers/4B5907E0/Large/) |
 | `43430011` | Megaman Anniversary Collection | Xbox1 | 2013-03-08 | _None_ | [Small](Covers/43430011/Small/) / [Medium](Covers/43430011/Medium/) / [Large (default)](Covers/43430011/Large/) |
 | `4C410004` | Star Wars The Clone Wars | Xbox1 | 2013-03-03 | _None_ | [Small](Covers/4C410004/Small/) / [Medium](Covers/4C410004/Medium/) / [Large (default)](Covers/4C410004/Large/) |
-| `00000135` | Pokemon mini | HomeBrew | 2013-03-02 | [Icon](Icons/00000135.png) | [Small](Covers/00000135/Small/) / [Medium](Covers/00000135/Medium/) / [Large (default)](Covers/00000135/Large/) |
-| `00000131` | Intellivision | HomeBrew | 2013-03-02 | [Icon](Icons/00000131.png) | [Small](Covers/00000131/Small/) / [Medium](Covers/00000131/Medium/) / [Large (default)](Covers/00000131/Large/) |
-| `00000137` | Supervision | HomeBrew | 2013-03-02 | [Icon](Icons/00000137.png) | [Small](Covers/00000137/Small/) / [Medium](Covers/00000137/Medium/) / [Large (default)](Covers/00000137/Large/) |
-| `00000130` | Commodore 64 | HomeBrew | 2013-03-02 | [Icon](Icons/00000130.png) | [Small](Covers/00000130/Small/) / [Medium](Covers/00000130/Medium/) / [Large (default)](Covers/00000130/Large/) |
-| `00000125` | Amstrad CPC | HomeBrew | 2013-03-02 | [Icon](Icons/00000125.png) | [Small](Covers/00000125/Small/) / [Medium](Covers/00000125/Medium/) / [Large (default)](Covers/00000125/Large/) |
-| `00000129` | Atari Lynx | HomeBrew | 2013-03-02 | [Icon](Icons/00000129.png) | [Small](Covers/00000129/Small/) / [Medium](Covers/00000129/Medium/) / [Large (default)](Covers/00000129/Large/) |
-| `00000127` | Atari 5200 | HomeBrew | 2013-03-02 | [Icon](Icons/00000127.png) | [Small](Covers/00000127/Small/) / [Medium](Covers/00000127/Medium/) / [Large (default)](Covers/00000127/Large/) |
-| `00000138` | Wonderswan | HomeBrew | 2013-03-02 | [Icon](Icons/00000138.png) | [Small](Covers/00000138/Small/) / [Medium](Covers/00000138/Medium/) / [Large (default)](Covers/00000138/Large/) |
+| `00000135` (Actual/Homebrew Title ID: `08192006`) | Pokemon mini | HomeBrew | 2013-03-02 | [Icon](Icons/00000135.png) | [Small](Covers/00000135/Small/) / [Medium](Covers/00000135/Medium/) / [Large (default)](Covers/00000135/Large/) |
+| `00000131` (Actual/Homebrew Title ID: `10052007`) | Intellivision | HomeBrew | 2013-03-02 | [Icon](Icons/00000131.png) | [Small](Covers/00000131/Small/) / [Medium](Covers/00000131/Medium/) / [Large (default)](Covers/00000131/Large/) |
+| `00000137` (Actual/Homebrew Title ID: `08152006`) | Supervision | HomeBrew | 2013-03-02 | [Icon](Icons/00000137.png) | [Small](Covers/00000137/Small/) / [Medium](Covers/00000137/Medium/) / [Large (default)](Covers/00000137/Large/) |
+| `00000130` (Actual/Homebrew Title ID: `07162006`) | Commodore 64 | HomeBrew | 2013-03-02 | [Icon](Icons/00000130.png) | [Small](Covers/00000130/Small/) / [Medium](Covers/00000130/Medium/) / [Large (default)](Covers/00000130/Large/) |
+| `00000125` (Actual/Homebrew Title ID: `10122007`) | Amstrad CPC | HomeBrew | 2013-03-02 | [Icon](Icons/00000125.png) | [Small](Covers/00000125/Small/) / [Medium](Covers/00000125/Medium/) / [Large (default)](Covers/00000125/Large/) |
+| `00000129` (Actual/Homebrew Title ID: `03202006`) | Atari Lynx | HomeBrew | 2013-03-02 | [Icon](Icons/00000129.png) | [Small](Covers/00000129/Small/) / [Medium](Covers/00000129/Medium/) / [Large (default)](Covers/00000129/Large/) |
+| `00000127` (Actual/Homebrew Title ID: `10082007`) | Atari 5200 | HomeBrew | 2013-03-02 | [Icon](Icons/00000127.png) | [Small](Covers/00000127/Small/) / [Medium](Covers/00000127/Medium/) / [Large (default)](Covers/00000127/Large/) |
+| `00000138` (Actual/Homebrew Title ID: `07012007`) | Wonderswan | HomeBrew | 2013-03-02 | [Icon](Icons/00000138.png) | [Small](Covers/00000138/Small/) / [Medium](Covers/00000138/Medium/) / [Large (default)](Covers/00000138/Large/) |
 | `45410037` | Harry Potter and the Sorcerers Stone | Xbox1 | 2013-02-28 | _None_ | [Small](Covers/45410037/Small/) / [Medium](Covers/45410037/Medium/) / [Large (default)](Covers/45410037/Large/) |
 | `5848081E` | Musical Feet | XBLA | 2013-02-24 | [Icon](Icons/5848081E.png) | [Small](Covers/5848081E/Small/) / [Medium](Covers/5848081E/Medium/) / [Large (default)](Covers/5848081E/Large/) |
 | `49470013` | Dungeons and Dragons Heroes | Xbox1 | 2013-02-15 | _None_ | [Small](Covers/49470013/Small/) / [Medium](Covers/49470013/Medium/) / [Large (default)](Covers/49470013/Large/) |
 | `4C410005` | Star Wars Jedi Starfighter | Xbox1 | 2013-02-11 | _None_ | [Small](Covers/4C410005/Small/) / [Medium](Covers/4C410005/Medium/) / [Large (default)](Covers/4C410005/Large/) |
-| `00000123` | Internet Explorer | HomeBrew | 2013-02-11 | _None_ | [Small](Covers/00000123/Small/) / [Medium](Covers/00000123/Medium/) / [Large (default)](Covers/00000123/Large/) |
+| `00000123` (Actual/Homebrew Title ID: `58480880`) | Internet Explorer | HomeBrew | 2013-02-11 | _None_ | [Small](Covers/00000123/Small/) / [Medium](Covers/00000123/Medium/) / [Large (default)](Covers/00000123/Large/) |
 | `565107D7` | Legends of War | 360 | 2013-02-04 | [Icon](Icons/565107D7.png) | [Small](Covers/565107D7/Small/) / [Medium](Covers/565107D7/Medium/) / [Large (default)](Covers/565107D7/Large/) |
 | `42410002` | Digimon World 4 | Xbox1 | 2013-01-23 | _None_ | [Small](Covers/42410002/Small/) / [Medium](Covers/42410002/Medium/) / [Large (default)](Covers/42410002/Large/) |
 | `4D57000E` | Gauntlet Dark Legacy | Xbox1 | 2013-01-14 | _None_ | [Small](Covers/4D57000E/Small/) / [Medium](Covers/4D57000E/Medium/) / [Large (default)](Covers/4D57000E/Large/) |
