@@ -44,7 +44,7 @@
 | `00000172` | DSon360 | HomeBrew | 2025-04-16 | [Icon](Icons/00000172.png) | [Small](Covers/00000172/Small/) / [Medium](Covers/00000172/Medium/) / [Large (default)](Covers/00000172/Large/) |
 | `00000121` (Actual/Homebrew Title ID: `FFFF011D`) | DashLaunch | HomeBrew | 2025-04-13 | [Icon](Icons/00000121.png) | [Small](Covers/00000121/Small/) / [Medium](Covers/00000121/Medium/) / [Large (default)](Covers/00000121/Large/) |
 | `00000170` | XexMenu 2.0 | HomeBrew | 2025-04-13 | [Icon](Icons/00000170.png) | [Small](Covers/00000170/Small/) / [Medium](Covers/00000170/Medium/) / [Large (default)](Covers/00000170/Large/) |
-| `C0DE9999` (Actual/Homebrew Title ID: `C0DE9999`) | Xexmenu | HomeBrew | 2025-04-13 | [Icon](Icons/C0DE9999.png) | [Small](Covers/C0DE9999/Small/) / [Medium](Covers/C0DE9999/Medium/) / [Large (default)](Covers/C0DE9999/Large/) |
+| `C0DE9999` | Xexmenu | HomeBrew | 2025-04-13 | [Icon](Icons/C0DE9999.png) | [Small](Covers/C0DE9999/Small/) / [Medium](Covers/C0DE9999/Medium/) / [Large (default)](Covers/C0DE9999/Large/) |
 | `00000176` | XM360 | HomeBrew | 2025-04-13 | [Icon](Icons/00000176.png) | [Small](Covers/00000176/Small/) / [Medium](Covers/00000176/Medium/) / [Large (default)](Covers/00000176/Large/) |
 | `00000113` (Actual/Homebrew Title ID: `FFFE07D1`) | XellLaunch | HomeBrew | 2025-04-13 | [Icon](Icons/00000113.png) | [Small](Covers/00000113/Small/) / [Medium](Covers/00000113/Medium/) / [Large (default)](Covers/00000113/Large/) |
 | `373407D7` | Kung Fu Panda | 360 | 2025-04-12 | [Icon](Icons/373407D7.png) | [Small](Covers/373407D7/Small/) / [Medium](Covers/373407D7/Medium/) / [Large (default)](Covers/373407D7/Large/) |
