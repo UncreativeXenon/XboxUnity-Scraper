@@ -221,7 +221,7 @@ Returns a JSON object with an array of title entries and pagination metadata.
 }
 ```
 
-> ℹ️ **Note:**: If a Homebrew Title ID (`HBTitleID`) is provided, it will be used instead of the default TitleID in both the file executable and the website display, but not in API calls. If the `HBTitleID` is `00000000`, it will be completely ignored.
+> ℹ️ **Note:**: If a Homebrew Title ID (`HBTitleID`) is provided, it will be used instead of the default TitleID in both the file executable and the website display, **but not in API calls**. If the `HBTitleID` is `00000000`, it will be completely ignored.
 
 > ℹ️ **Note:** To retrieve **all XboxUnity titles**, simply call the endpoint with `search` left empty (e.g., `search=`).
 
