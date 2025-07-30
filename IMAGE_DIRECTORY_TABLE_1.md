@@ -850,7 +850,7 @@
 | `58410904` | SOULCALIBUR | XBLA | 2023-01-03 | [Icon](Icons/58410904.png) | [Small](Covers/58410904/Small/) / [Medium](Covers/58410904/Medium/) / [Large (default)](Covers/58410904/Large/) |
 | `5841149E` | Minecraft: Story Mode | 360 | 2023-01-03 | [Icon](Icons/5841149E.png) | [Small](Covers/5841149E/Small/) / [Medium](Covers/5841149E/Medium/) / [Large (default)](Covers/5841149E/Large/) |
 | `58410833` | Ultimate Mortal Kombat 3 | XBLA | 2023-01-03 | [Icon](Icons/58410833.png) | [Small](Covers/58410833/Small/) / [Medium](Covers/58410833/Medium/) / [Large (default)](Covers/58410833/Large/) |
-| `584114C6` | Minecraft: Story Mode - Season Two | 360 | 2023-01-03 | _None_ | [Small](Covers/584114C6/Small/) / [Medium](Covers/584114C6/Medium/) / [Large (default)](Covers/584114C6/Large/) |
+| `584114C6` | Minecraft: Story Mode - Season Two | 360 | 2023-01-03 | [Icon](Icons/584114C6.png) | [Small](Covers/584114C6/Small/) / [Medium](Covers/584114C6/Medium/) / [Large (default)](Covers/584114C6/Large/) |
 | `415608ED` | F&F: Showdown | 360 | 2023-01-02 | [Icon](Icons/415608ED.png) | [Small](Covers/415608ED/Small/) / [Medium](Covers/415608ED/Medium/) / [Large (default)](Covers/415608ED/Large/) |
 | `354807D5` | Deadfall Adventures | 360 | 2023-01-02 | [Icon](Icons/354807D5.png) | [Small](Covers/354807D5/Small/) / [Medium](Covers/354807D5/Medium/) / [Large (default)](Covers/354807D5/Large/) |
 | `373407D6` | AT:TSotNK | 360 | 2022-12-30 | [Icon](Icons/373407D6.png) | [Small](Covers/373407D6/Small/) / [Medium](Covers/373407D6/Medium/) / [Large (default)](Covers/373407D6/Large/) |
@@ -1373,7 +1373,7 @@
 | `454109DB` | FIFA 15 | 360 | 2018-10-17 | [Icon](Icons/454109DB.png) | [Small](Covers/454109DB/Small/) / [Medium](Covers/454109DB/Medium/) / [Large (default)](Covers/454109DB/Large/) |
 | `4156003E` | Cabelas Big Game Hunter 2005 Adventures | Xbox1 | 2018-10-15 | _None_ | [Small](Covers/4156003E/Small/) / [Medium](Covers/4156003E/Medium/) / [Large (default)](Covers/4156003E/Large/) |
 | `454108F9` | Harry Potter and the Deathly Hallows - Part 1 | 360 | 2018-10-06 | [Icon](Icons/454108F9.png) | [Small](Covers/454108F9/Small/) / [Medium](Covers/454108F9/Medium/) / [Large (default)](Covers/454108F9/Large/) |
-| `53450086` | Shadow The Hedgehog | Xbox1 | 2018-10-06 | _None_ | [Small](Covers/53450086/Small/) / [Medium](Covers/53450086/Medium/) / [Large (default)](Covers/53450086/Large/) |
+| `53450086` | Shadow The Hedgehog | Xbox1 | 2018-10-06 | [Icon](Icons/53450086.png) | [Small](Covers/53450086/Small/) / [Medium](Covers/53450086/Medium/) / [Large (default)](Covers/53450086/Large/) |
 | `41560823` | Baja 1000 | 360 | 2018-09-18 | [Icon](Icons/41560823.png) | [Small](Covers/41560823/Small/) / [Medium](Covers/41560823/Medium/) / [Large (default)](Covers/41560823/Large/) |
 | `4E4D083E` | Ridge Racer Unbounded | 360 | 2018-09-15 | [Icon](Icons/4E4D083E.png) | [Small](Covers/4E4D083E/Small/) / [Medium](Covers/4E4D083E/Medium/) / [Large (default)](Covers/4E4D083E/Large/) |
 | `464507DC` | Farming Simulator | 360 | 2018-09-10 | [Icon](Icons/464507DC.png) | [Small](Covers/464507DC/Small/) / [Medium](Covers/464507DC/Medium/) / [Large (default)](Covers/464507DC/Large/) |
@@ -1599,7 +1599,7 @@
 | `4947000D` | Taz Wanted | Xbox1 | 2017-01-26 | _None_ | [Small](Covers/4947000D/Small/) / [Medium](Covers/4947000D/Medium/) / [Large (default)](Covers/4947000D/Large/) |
 | `45410029` | TY the Tasmanian Tiger | Xbox1 | 2017-01-26 | _None_ | [Small](Covers/45410029/Small/) / [Medium](Covers/45410029/Medium/) / [Large (default)](Covers/45410029/Large/) |
 | `54510027` | The Spongebob Squarepants Movie | Xbox1 | 2017-01-26 | _None_ | [Small](Covers/54510027/Small/) / [Medium](Covers/54510027/Medium/) / [Large (default)](Covers/54510027/Large/) |
-| `5345002B` | Sonic Heros | Xbox1 | 2017-01-26 | _None_ | [Small](Covers/5345002B/Small/) / [Medium](Covers/5345002B/Medium/) / [Large (default)](Covers/5345002B/Large/) |
+| `5345002B` | Sonic Heros | Xbox1 | 2017-01-26 | [Icon](Icons/5345002B.png) | [Small](Covers/5345002B/Small/) / [Medium](Covers/5345002B/Medium/) / [Large (default)](Covers/5345002B/Large/) |
 | `53450087` | Sonic Riders | Xbox1 | 2017-01-26 | _None_ | [Small](Covers/53450087/Small/) / [Medium](Covers/53450087/Medium/) / [Large (default)](Covers/53450087/Large/) |
 | `58410A25` | Sonic Adventure | XBLA | 2017-01-25 | [Icon](Icons/58410A25.png) | [Small](Covers/58410A25/Small/) / [Medium](Covers/58410A25/Medium/) / [Large (default)](Covers/58410A25/Large/) |
 | `58410889` | Peggle | XBLA | 2017-01-25 | [Icon](Icons/58410889.png) | [Small](Covers/58410889/Small/) / [Medium](Covers/58410889/Medium/) / [Large (default)](Covers/58410889/Large/) |
