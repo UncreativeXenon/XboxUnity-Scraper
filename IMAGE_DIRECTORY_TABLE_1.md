@@ -8,7 +8,7 @@
 | `58410A30` | BattleBlock Theater | XBLA | 2025-06-13 | [Icon](Icons/58410A30.png) | [Small](Covers/58410A30/Small/) / [Medium](Covers/58410A30/Medium/) / [Large (default)](Covers/58410A30/Large/) |
 | `58550732` | ZP2KX: Zombies & Pterodactyls! | 360 | 2025-06-12 | _None_ | [Small](Covers/58550732/Small/) / [Medium](Covers/58550732/Medium/) / [Large (default)](Covers/58550732/Large/) |
 | `584E07D2` | Community Game | XBLA | 2025-06-03 | _None_ | [Small](Covers/584E07D2/Small/) / [Medium](Covers/584E07D2/Medium/) / [Large (default)](Covers/584E07D2/Large/) |
-| `585504F8` | まもって騎士 | 360 | 2025-06-03 | _None_ | [Small](Covers/585504F8/Small/) / [Medium](Covers/585504F8/Medium/) / [Large (default)](Covers/585504F8/Large/) |
+| `585504F8` | まもって騎士 | 360 | 2025-06-03 | _None_ | _None_ |
 | `53450812` | SONIC UNLEASHED | 360 | 2025-05-28 | [Icon](Icons/53450812.png) | [Small](Covers/53450812/Small/) / [Medium](Covers/53450812/Medium/) / [Large (default)](Covers/53450812/Large/) |
 | `5841095A` | Trials HD | XBLA | 2025-05-28 | [Icon](Icons/5841095A.png) | [Small](Covers/5841095A/Small/) / [Medium](Covers/5841095A/Medium/) / [Large (default)](Covers/5841095A/Large/) |
 | `58550684` | Explosionade | 360 | 2025-05-24 | _None_ | [Small](Covers/58550684/Small/) / [Medium](Covers/58550684/Medium/) / [Large (default)](Covers/58550684/Large/) |
