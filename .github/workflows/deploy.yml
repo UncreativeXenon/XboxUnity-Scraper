@@ -21,19 +21,17 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      # 1. Clean up 12GB of space so the download fits
-      - name: Free Disk Space
-        uses: jlumbroso/free-disk-space-action@v1
-        with:
-          tool-cache: false
-          android: true
-          dotnet: true
-          haskell: true
-          large-packages: true
-          docker-images: true
-          swap-storage: true
+      # 1. Manually wipe pre-installed software to free space
+      - name: Free Disk Space (Manual)
+        run: |
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /usr/local/lib/android
+          sudo rm -rf /opt/ghc
+          sudo rm -rf "/usr/local/share/boost"
+          sudo rm -rf "$AGENT_TOOLSDIRECTORY"
+          df -h # This shows you how much space is left in the logs
 
-      # 2. Download only the latest files (Shallow Clone)
+      # 2. Shallow checkout
       - name: Checkout
         uses: actions/checkout@v4
         with:
@@ -50,4 +48,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        
