@@ -3,7 +3,7 @@
 This archive preserves essential assets and metadata from [XboxUnity.net](http://xboxunity.net), organized for ease of use in research, dashboard modding, and archival purposes.
 
 > 🕓 **Last scraped:** June 16, 2025  
-> ♻️ **Repo last updated:** July 30, 2025
+> ♻️ **Repo last updated:** July 17, 2026
 
 ---
 
